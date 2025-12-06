@@ -1,0 +1,25 @@
+{
+    "skinColor": [
+      {
+        "id": 1,
+        "name": "Branca"
+      },
+      {
+        "id": 2,
+        "name": "Preta"
+      },
+      {
+        "id": 3,
+        "name": "Parda"
+      },
+      {
+        "id": 4,
+        "name": "Indígena"
+      },
+      {
+        "id": 5,
+        "name": "Amarela"
+      }
+    ]
+  }
+  

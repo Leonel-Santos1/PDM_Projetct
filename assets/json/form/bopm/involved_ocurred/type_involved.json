@@ -1,0 +1,28 @@
+{
+    "typeInvolved": [
+        {
+            "id": 1,
+            "name": "Autor"
+        },
+        {
+            "id": 2,
+            "name": "Suspeito"
+        },
+        {
+            "id": 3,
+            "name": "Vítima"
+        },
+        {
+            "id": 4,
+            "name": "Testemunha"
+        },
+        {
+            "id": 5,
+            "name": "Comunicante"
+        },
+        {
+            "id": 6,
+            "name": "Vítima Fatal"
+        }
+    ]
+}

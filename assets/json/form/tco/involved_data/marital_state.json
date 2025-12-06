@@ -1,0 +1,32 @@
+{
+  "maritalState": [
+    {
+      "id": 1,
+      "name": "Solteiro"
+    },
+    {
+      "id": 2,
+      "name": "Casado"
+    },
+    {
+      "id": 3,
+      "name": "União Estável"
+    },
+    {
+      "id": 4,
+      "name": "Não Informado"
+    },
+    {
+      "id": 5,
+      "name": "Divorciado"
+    },
+    {
+      "id": 6,
+      "name": "Separado"
+    },
+    {
+      "id": 7,
+      "name": "Viúvo"
+    }
+  ]
+}

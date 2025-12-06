@@ -1,0 +1,173 @@
+{
+    "codeOccurrence": [
+        {
+            "id": "A",
+            "name": "Assistenciais",
+            "options": {
+                "01": "Doente Mental",
+                "02": "Parturiente",
+                "03": "Socorro de Urgência",
+                "04": "Outros"
+            }
+        },
+        {
+            "id": "B",
+            "name": "Contra Pessoa",
+            "options": {
+                "01": "Agressão Física",
+                "02": "Ameaça",
+                "03": "Feminicídio",
+                "04": "Homicídio",
+                "05": "Tentativa de Homicídio",
+                "06": "Latrocínio",
+                "07": "Roubo/Furto a Pessoa",
+                "08": "Rapto",
+                "09": "Sequestro",
+                "10": "Suicídio",
+                "11": "Tentativa de Suicídio",
+                "12": "Atrito Familiar",
+                "13": "Atrito Verbal",
+                "14": "Violência Doméstica (Maria da Penha)",
+                "15": "Lesão Corporal",
+                "16": "Outros"
+            }
+        },
+        {
+            "id": "C",
+            "name": "Contra Patrimônio",
+            "options": {
+                "01": "Danos e Depredação",
+                "02": "Invasão Domiciliar",
+                "03": "Furto a Estab. Comercial",
+                "04": "Furto a Residência",
+                "05": "Roubo Estab. Comercial",
+                "06": "Roubo a Residência",
+                "07": "Assalto a Banco",
+                "08": "Roubo a Caminhão",
+                "09": "Roubo a Lotérica",
+                "10": "Roubo a Coletivo",
+                "11": "Assalto a Ônibus",
+                "12": "Explosão de Caixa Eletrônico",
+                "13": "Roubo Posto de Comb.",
+                "14": "Roubo a Supermercado",
+                "15": "Roubo a Táxi",
+                "16": "Furto a Auto (Objetos)",
+                "17": "Roubo/Furto de Auto",
+                "18": "Tent. Arrombamento a Residência",
+                "19": "Roubo a Inst. Pública",
+                "20": "Roubo a Fórum",
+                "21": "Roubo a Padaria",
+                "22": "Tentativa de Arrombamento a Comércio",
+                "23": "Assalto a Correios",
+                "24": "Arrombamento Comércio",
+                "25": "Roubo a Fazenda",
+                "26": "Arrombamento Residência",
+                "27": "Furto/Roubo de Bicicleta",
+                "28": "Roubo/Furto de Motocicleta",
+                "29": "Outros"
+            }
+        },
+        {
+            "id": "D",
+            "name": "Contra os Costumes",
+            "options": {
+                "01": "Ato Obsceno",
+                "02": "Embriaguez",
+                "03": "Estupro Consumado",
+                "04": "Estupro Tentado",
+                "05": "Perturbação do Sossego",
+                "06": "Baderna",
+                "07": "Não Pagar Despesas",
+                "08": "Tráfico de Drogas",
+                "09": "Usuário de Drogas",
+                "10": "Apreensão de Arma de Fogo",
+                "11": "Apreensão de Arma Branca",
+                "12": "Porte Ilegal de Arma de Fogo",
+                "13": "Disparo de Arma de Fogo",
+                "14": "Dinheiro Falso",
+                "15": "Outros"
+            }
+        },
+        {
+            "id": "E",
+            "name": "Diversas",
+            "options": {
+                "01": "Apoio Policial",
+                "02": "Achado de Cadáver",
+                "03": "Afogamento",
+                "04": "Escolta",
+                "05": "Averiguação de Pessoa",
+                "06": "Fuga da FUNAC",
+                "07": "Fuga da CCPJ",
+                "08": "Rebelião na CCPJ",
+                "09": "Rebelião na FUNAC",
+                "10": "Fuga de Delegacia",
+                "11": "Veículo Abandonado",
+                "12": "Criança Desaparecida",
+                "13": "Rebelião em Delegacia",
+                "14": "Abigeato",
+                "15": "Reintegração de Posse",
+                "16": "Bicicleta Recuperada",
+                "17": "Falsidade Ideológica",
+                "18": "Motocicleta Recuperada",
+                "19": "Estelionato",
+                "20": "Veículo Recuperado",
+                "21": "Invasão à Propriedade Rural",
+                "22": "Nada Constatado",
+                "23": "Cumprimento de Mandado de Prisão",
+                "24": "Outros"
+            }
+        },
+        {
+            "id": "F",
+            "name": "Envolvimento PM's",
+            "options": {
+                "01": "Gestante",
+                "02": "Desacato",
+                "03": "Agressão (vítima)",
+                "04": "Prestação de Socorro",
+                "05": "Conduta Inconveniente",
+                "06": "Não Pagar Despesas",
+                "07": "Disparo de Arma de Fogo",
+                "08": "Efeito Etílico",
+                "09": "Atrito Verbal",
+                "10": "Agressão (agressor)",
+                "11": "Morte por Intervenção Policial",
+                "12": "Outros"
+            }
+        },
+        {
+            "id": "H",
+            "name": "Ocorrências",
+            "options": {
+                "01": "Apreensão de Veículos",
+                "02_1": "Atropelamento com Vítimas",
+                "02_2": "Atropelamento com Vítimas Fatais",
+                "03_1": "Colisão com Vítimas",
+                "03_2": "Colisão sem Vítimas",
+                "03_3": "Colisão com Vítimas Fatais",
+                "04_1": "Abalroamento com Vítimas",
+                "04_2": "Abalroamento sem Vítimas",
+                "04_3": "Abalroamento com Vítimas Fatais",
+                "05_1": "Choque com Vítimas",
+                "05_2": "Choque sem Vítimas",
+                "05_3": "Choque com Vítimas Fatais",
+                "06_1": "Tombamento com Vítimas",
+                "06_2": "Tombamento sem Vítimas",
+                "06_3": "Tombamento com Vítimas Fatais",
+                "07_1": "Capotamento com Vítimas",
+                "07_2": "Capotamento sem Vítimas",
+                "07_3": "Capotamento com Vítimas Fatais",
+                "08": "Realização de Rachas/Pegas",
+                "09": "Embriaguez ao Volante",
+                "10": "Direção Perigosa",
+                "11": "Inabilitado ao Volante",
+                "12": "Recolhimento de CNH",
+                "13": "Menor ao Volante",
+                "14": "Acidente com VTR da PM",
+                "15": "Notificações",
+                "16": "Outros"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "accidentType": [
+      {
+        "id": 1,
+        "name": "Atropelamento",
+        "options": [
+          "Pedestre",
+          "Animal"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Colisão",
+        "options": [
+          "Transversal",
+          "Lateral",
+          "Frontal",
+          "Traseira",
+          "Engavetamento"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Choque",
+        "options": [
+          "Poste",
+          "Árvore",
+          "Muro",
+          "Casa",
+          "Barranco",
+          "Defensa",
+          "Outro Veículo",
+          "Cerca"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Saída de Pista",
+        "options": [
+          "Simples",
+          "Seguida de Capotamento",
+          "Seguida de Choque",
+          "Seguida de Tombamento"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Capotamento"
+      },
+      {
+        "id": 6,
+        "name": "Tombamento"
+      },
+      {
+        "id": 7,
+        "name": "Queda"
+      },
+      {
+        "id": 8,
+        "name": "Outro"
+      }
+    ]
+  }
+  

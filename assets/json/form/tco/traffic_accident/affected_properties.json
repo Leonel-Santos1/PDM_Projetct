@@ -1,0 +1,54 @@
+{
+    "publicProperties": [
+        {
+            "id": 1,
+            "name": "Placa"
+        },
+        {
+            "id": 2,
+            "name": "Meio Fio"
+        },
+        {
+            "id": 3,
+            "name": "Bueiro"
+        },
+        {
+            "id": 4,
+            "name": "Guarda Corpo"
+        },
+        {
+            "id": 5,
+            "name": "Defensa"
+        },
+        {
+            "id": 6,
+            "name": "Controle Eletrônico de Velocidade"
+        },
+        {
+            "id": 7,
+            "name": "Outro"
+        }
+    ],
+    "probableCause": [
+        {
+            "id": 1,
+            "name": "Falha Humana"
+        },
+        {
+            "id": 2,
+            "name": "Falha Mecânica"
+        },
+        {
+            "id": 3,
+            "name": "Falha na Via"
+        },
+        {
+            "id": 4,
+            "name": "Cond. Climáticas"
+        },
+        {
+            "id": 5,
+            "name": "Indeterminado"
+        }
+    ]
+}

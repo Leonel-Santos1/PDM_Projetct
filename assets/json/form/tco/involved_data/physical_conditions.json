@@ -1,0 +1,40 @@
+{
+    "physicalConditions": [
+        {
+            "id": 1,
+            "name": "Sintomas de Embriaguez"
+        },
+        {
+            "id": 2,
+            "name": "Sem Lesões"
+        },
+        {
+            "id": 3,
+            "name": "Sob Efeito de Droga Ilícita"
+        },
+        {
+            "id": 4,
+            "name": "Lesões Leves"
+        },
+        {
+            "id": 5,
+            "name": "Problema Clínico"
+        },
+        {
+            "id": 6,
+            "name": "Lesões Graves ou Gravíssimas"
+        },
+        {
+            "id": 7,
+            "name": "Portador de Deficiência"
+        },
+        {
+            "id": 8,
+            "name": "Óbito"
+        },
+        {
+            "id": 9,
+            "name": "Parturiente"
+        }
+    ]
+}

@@ -1,0 +1,6242 @@
+[
+  {
+    "CEP": "65600010",
+    "RUA": "Travessa Otávio Passos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600020",
+    "RUA": "Rua Coelho Neto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600030",
+    "RUA": "Avenida Otávio Passos",
+    "COMPLEMENTO": "- de 909/910 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600040",
+    "RUA": "Praça Rui Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600050",
+    "RUA": "Rua Joaquim Benedito da Silva",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600060",
+    "RUA": "Rua Afonso Pena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600070",
+    "RUA": "Travessa Vinte e Oito de Julho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600075",
+    "RUA": "Travessa Bom Pastor",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600077",
+    "RUA": "Travessa José Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600080",
+    "RUA": "Rua José Benício",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600085",
+    "RUA": "Travessa da Estrela",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600087",
+    "RUA": "Avenida Castelo Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600090",
+    "RUA": "Rua Teófilo Dias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600100",
+    "RUA": "Praça Vespasiano Ramos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600110",
+    "RUA": "Rua Manoel Gonçalves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600120",
+    "RUA": "Rua da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600130",
+    "RUA": "Rua Abel Antunes",
+    "COMPLEMENTO": "- de 573/574 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600140",
+    "RUA": "Rua Otávio Passos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600150",
+    "RUA": "Beco do Onze",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600160",
+    "RUA": "Avenida Central",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600170",
+    "RUA": "Rua da Faveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600175",
+    "RUA": "Avenida Central",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600180",
+    "RUA": "Rua Paulo Afonso",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600190",
+    "RUA": "Rua do Cruzeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600200",
+    "RUA": "Rua do Onze",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600210",
+    "RUA": "Rua Vereador Gentil de Oliveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600220",
+    "RUA": "1ª Travessa da Faveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600230",
+    "RUA": "1ª Travessa Central",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600231",
+    "RUA": "2ª Travessa Central",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600240",
+    "RUA": "Beco do Galo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600250",
+    "RUA": "Travessa Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600260",
+    "RUA": "Praça São Sebastião",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600270",
+    "RUA": "Rua São Benedito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600280",
+    "RUA": "Praça do Cemitério dos Remédios",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600290",
+    "RUA": "Rua Senhor do Bonfim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600293",
+    "RUA": "Rua Dom Luís Marilem",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600300",
+    "RUA": "Travessa Princesa Isabel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600305",
+    "RUA": "Rua Princesa Isabel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600310",
+    "RUA": "Rua General Sampaio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600320",
+    "RUA": "Rua Cristo Rei",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600330",
+    "RUA": "Rua do Paraíso",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600340",
+    "RUA": "Rua Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600350",
+    "RUA": "Rua Marechal Costa e Silva",
+    "COMPLEMENTO": "- até 1074/1075",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600355",
+    "RUA": "Rua Frei Serafim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65600360",
+    "RUA": "Rua Santa Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600365",
+    "RUA": "Avenida Castelo Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600370",
+    "RUA": "Rua São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600380",
+    "RUA": "Rua Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600390",
+    "RUA": "Travessa Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600400",
+    "RUA": "Rua Três de Fevereiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600403",
+    "RUA": "Rua Nove",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600405",
+    "RUA": "Rua Dez",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600410",
+    "RUA": "Rua da Baixinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600420",
+    "RUA": "Travessa Três de Fevereiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600430",
+    "RUA": "Travessa Baixinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Refinaria"
+  },
+  {
+    "CEP": "65600431",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Baixinha"
+  },
+  {
+    "CEP": "65600432",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Baixinha"
+  },
+  {
+    "CEP": "65600433",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Baixinha"
+  },
+  {
+    "CEP": "65600434",
+    "RUA": "Rua Quatro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600435",
+    "RUA": "Rua Cinco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600436",
+    "RUA": "Rua Seis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600437",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600438",
+    "RUA": "Rua Oito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600439",
+    "RUA": "Travessa Saturnino Belo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Baixinha"
+  },
+  {
+    "CEP": "65600440",
+    "RUA": "Rua Saturnino Belo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600445",
+    "RUA": "Rua Vereador Gentil de Oliveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600447",
+    "RUA": "Travessa Vereador Gentil de Oliveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600450",
+    "RUA": "Rua Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600453",
+    "RUA": "1ª Travessa Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600455",
+    "RUA": "Rua Raimundo Bebe",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600500",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "- de 732/733 ao fim",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600505",
+    "RUA": "Avenida Santos Dumont",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600510",
+    "RUA": "Rua do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600520",
+    "RUA": "Rua Santa Bárbara",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600523",
+    "RUA": "1ª Travessa Santa Barbara",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600525",
+    "RUA": "2ª Travessa Santa Barbara",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600530",
+    "RUA": "Rua da Piçarreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600533",
+    "RUA": "Travessa da Igreja",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600535",
+    "RUA": "Rua dos Milagres",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600540",
+    "RUA": "Rua Nove de Novembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600545",
+    "RUA": "Travessa João Luis Albuquerque",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600550",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600560",
+    "RUA": "Rua Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600570",
+    "RUA": "Praça Manoel Pinto da Mota",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600580",
+    "RUA": "Beco da Mangueira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600590",
+    "RUA": "Praça Cardeal Mota",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600600",
+    "RUA": "Travessa Paulo Afonso",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600610",
+    "RUA": "2ª Travessa da Faveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600620",
+    "RUA": "3ª Travessa da Faveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "São Francisco"
+  },
+  {
+    "CEP": "65600655",
+    "RUA": "Rua Vereador Gentil de Oliveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pai Geraldo"
+  },
+  {
+    "CEP": "65600660",
+    "RUA": "Rua Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pai Geraldo"
+  },
+  {
+    "CEP": "65600670",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pai Geraldo"
+  },
+  {
+    "CEP": "65600680",
+    "RUA": "Rua São Marcos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pai Geraldo"
+  },
+  {
+    "CEP": "65600700",
+    "RUA": "Rua Vitória",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600710",
+    "RUA": "Rua Aurora",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600720",
+    "RUA": "Rua da Esperança",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600730",
+    "RUA": "Rua da Felicidade",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600740",
+    "RUA": "Rua da Saúde",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600750",
+    "RUA": "Rua do Amor",
+    "COMPLEMENTO": "(Vl Vitória)",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65600900",
+    "RUA": "Rua Aarão Reis 640",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600901",
+    "RUA": "Rua Aarão Reis 640",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65600970",
+    "RUA": "Rua Desembargador Morato 487",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602000",
+    "RUA": "Praça do Panteon",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602010",
+    "RUA": "Avenida Otávio Passos",
+    "COMPLEMENTO": "- até 907/908",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602020",
+    "RUA": "Travessa Senador Costa Rodrigues",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602030",
+    "RUA": "Rua Senador Costa Rodrigues",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602040",
+    "RUA": "Rua Doutor Mirom Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602050",
+    "RUA": "Rua Quininha Pires",
+    "COMPLEMENTO": "- de 546/547 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602060",
+    "RUA": "Rua Rio Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602065",
+    "RUA": "Travessa Silvandira Rodrigues",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602070",
+    "RUA": "Travessa do Noronha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602080",
+    "RUA": "Rua Padre Gerosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602090",
+    "RUA": "Travessa Manoel Gonçalves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602100",
+    "RUA": "Travessa Padre Gerosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602110",
+    "RUA": "Rua da Professora Laci Assunção",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602120",
+    "RUA": "Praça Dom Luís Marelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602130",
+    "RUA": "Rua da Liberdade",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602140",
+    "RUA": "Rua João de Deus Moreira Ramos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602150",
+    "RUA": "Travessa da Liberdade",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602160",
+    "RUA": "Rua Abel Antunes",
+    "COMPLEMENTO": "- até 571/572",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602170",
+    "RUA": "Rua do Dois",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602180",
+    "RUA": "Travessa Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602190",
+    "RUA": "Travessa Matador Velho",
+    "COMPLEMENTO": "(Matadouro Velho)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602205",
+    "RUA": "Rua Tabelião Antônio Torres",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602210",
+    "RUA": "Rua da Independência",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602220",
+    "RUA": "Travessa São Benedito",
+    "COMPLEMENTO": "- de 471/472 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602230",
+    "RUA": "Travessa Acrísio Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602235",
+    "RUA": "2ª Travessa Acrízio Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602240",
+    "RUA": "Rua Antônio Pereira Neto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602250",
+    "RUA": "Rua Acrízio Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602260",
+    "RUA": "Travessa da Arueira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602270",
+    "RUA": "Rua da Aroeira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602280",
+    "RUA": "Rua Vinícius Duarte",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602290",
+    "RUA": "Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602300",
+    "RUA": "Rua do Trilho Velho",
+    "COMPLEMENTO": "- de 1220/1221 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602310",
+    "RUA": "Avenida Santos Dumont",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602320",
+    "RUA": "Rua Trinta e Um de Março",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602323",
+    "RUA": "Rua Colibris",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602330",
+    "RUA": "Rua Vinte e Cinco de Agosto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602340",
+    "RUA": "Travessa Vinte e Cinco de Agosto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602350",
+    "RUA": "Rua Sesoste Pereira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602360",
+    "RUA": "1ª Travessa Sesoste Pereira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602370",
+    "RUA": "Rua São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602380",
+    "RUA": "Rua São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602390",
+    "RUA": "Travessa São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602400",
+    "RUA": "2ª Travessa São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602410",
+    "RUA": "Rua Santo Antônio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602420",
+    "RUA": "Rua Vinte e Quatro de Dezembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602421",
+    "RUA": "1ª Travessa Vinte e Quatro de Dezembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602422",
+    "RUA": "2ª Travessa Vinte e Quatro de Dezembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602430",
+    "RUA": "Rua Vinte e Cinco de Dezembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602440",
+    "RUA": "Rua Ceará",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602450",
+    "RUA": "Travessa Ceará",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602460",
+    "RUA": "Travessa São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602470",
+    "RUA": "Rua Rita Queiroz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602480",
+    "RUA": "Travessa Rita Queiroz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602490",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "- até 730/731",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602500",
+    "RUA": "Rua Santos Dumont",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602510",
+    "RUA": "Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602520",
+    "RUA": "Rua Rio São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602530",
+    "RUA": "Rua do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602532",
+    "RUA": "2ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602533",
+    "RUA": "3ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602534",
+    "RUA": "4ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602535",
+    "RUA": "5ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602536",
+    "RUA": "6ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602537",
+    "RUA": "7ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602538",
+    "RUA": "8ª Travessa do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602540",
+    "RUA": "Rua do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602550",
+    "RUA": "Rua do Espírito Santo",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602560",
+    "RUA": "Rua das Flores",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602570",
+    "RUA": "Travessa da Calma",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602580",
+    "RUA": "Rua do Morro Verde",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602590",
+    "RUA": "2ª Travessa Vila Arias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602600",
+    "RUA": "6ª Travessa Vila Arias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602610",
+    "RUA": "4ª Travessa Vila Arias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602620",
+    "RUA": "Rua do Matadouro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602640",
+    "RUA": "Rua Gilberto Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602650",
+    "RUA": "Travessa Gilberto Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602660",
+    "RUA": "Avenida Vila Arias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602670",
+    "RUA": "1ª Travessa Trinta e Um de Março",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602690",
+    "RUA": "Rua Aeroporto Velho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602700",
+    "RUA": "Rua da Paz",
+    "COMPLEMENTO": "- de 604/605 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602710",
+    "RUA": "Beco Novo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602720",
+    "RUA": "Rua Saturnino Belo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602723",
+    "RUA": "Rua da Floresta",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602730",
+    "RUA": "2ª Travessa Trinta e Um de Março",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602740",
+    "RUA": "Travessa do Cemitério",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602750",
+    "RUA": "Travessa das Flores",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602760",
+    "RUA": "Rua da Calma",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602770",
+    "RUA": "Rua Rio Amazonas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602780",
+    "RUA": "Rua Rio Negro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602790",
+    "RUA": "Rua Sergipe",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602800",
+    "RUA": "Rua Curitiba",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602810",
+    "RUA": "Rua Seriema",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602820",
+    "RUA": "Rua Rio de Janeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65602830",
+    "RUA": "Travessa Santa Maria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65602840",
+    "RUA": "Rua Santa Maria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65603010",
+    "RUA": "Rua João Luís Albuquerque",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603015",
+    "RUA": "Travessa São João",
+    "COMPLEMENTO": "(Matadouro Velho)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603020",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603030",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603040",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603050",
+    "RUA": "Rua Quatro",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603060",
+    "RUA": "Rua Cinco",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603070",
+    "RUA": "Rua Seis",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603080",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603090",
+    "RUA": "Rua Oito",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603100",
+    "RUA": "Rua Nove",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603110",
+    "RUA": "Rua Dez",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603120",
+    "RUA": "Rua Onze",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603130",
+    "RUA": "Rua Doze",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603140",
+    "RUA": "Rua Treze",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603150",
+    "RUA": "Rua Catorze",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603160",
+    "RUA": "Rua Quinze",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603170",
+    "RUA": "Rua Dezesseis",
+    "COMPLEMENTO": "(Cj Ipem)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603200",
+    "RUA": "Avenida Brasil",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603210",
+    "RUA": "Rua Alexandre Medeiros",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603213",
+    "RUA": "2ª Travessa Vila Arias",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603215",
+    "RUA": "3ª Travessa Vila Arias",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603220",
+    "RUA": "4ª Travessa Vila Arias",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603223",
+    "RUA": "5ª Travessa Vila Arias",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603225",
+    "RUA": "6ª Travessa Vila Arias",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603230",
+    "RUA": "Rua João Paulo II",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603235",
+    "RUA": "Rua Bento XVI",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603240",
+    "RUA": "Rua Gilberto Barbosa",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603245",
+    "RUA": "Travessa Gilberto Barbosa",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603250",
+    "RUA": "Rua La Paz",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603255",
+    "RUA": "Rua Montevideo",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603260",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603265",
+    "RUA": "Rua Santo Expedito",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603270",
+    "RUA": "2ª Rua São José",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603275",
+    "RUA": "Rua Nossa Senhora da Conceição",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603280",
+    "RUA": "Rua Santa Terezinha",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603285",
+    "RUA": "Rua Santiago",
+    "COMPLEMENTO": "(Vl Arias)",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65603300",
+    "RUA": "Rua da Administração",
+    "COMPLEMENTO": "(Alto do Ipem)",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603310",
+    "RUA": "Rua da Fazenda",
+    "COMPLEMENTO": "(Alto do Ipem)",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603320",
+    "RUA": "Rua da Saúde",
+    "COMPLEMENTO": "(Alto do Ipem)",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603500",
+    "RUA": "Rua Amazonas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603505",
+    "RUA": "Rua Boa Vontade",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603510",
+    "RUA": "Rua Maranhão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603515",
+    "RUA": "Rua Bahia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603520",
+    "RUA": "Rua Rio Grande do Norte",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603525",
+    "RUA": "Rua Pernambuco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603530",
+    "RUA": "Rua Alagoas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603535",
+    "RUA": "Rua do Mocambinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603537",
+    "RUA": "Travessa do Mocambinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603540",
+    "RUA": "Rua Santarém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603543",
+    "RUA": "1ª Travessa Santarém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603545",
+    "RUA": "2ª Travessa Santarém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603550",
+    "RUA": "Rua da Voz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603555",
+    "RUA": "Travessa da Voz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603560",
+    "RUA": "Rua Sergipe",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603565",
+    "RUA": "Rua Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603570",
+    "RUA": "Rua do Açude",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603575",
+    "RUA": "Rua do Alto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603580",
+    "RUA": "Rua Pará",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603585",
+    "RUA": "Rua Paraíba",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603590",
+    "RUA": "Rua Parnaíba",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603595",
+    "RUA": "Rua Piauí",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603597",
+    "RUA": "Rua Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Antenor Viana"
+  },
+  {
+    "CEP": "65603600",
+    "RUA": "Rua do Aeroporto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603603",
+    "RUA": "1ª Travessa do Aeroporto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603605",
+    "RUA": "2ª Travessa do Aeroporto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603610",
+    "RUA": "Rua Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603613",
+    "RUA": "2ª Travessa Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603615",
+    "RUA": "3ª Travessa Aluísio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603620",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603623",
+    "RUA": "1ª Travessa da Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603625",
+    "RUA": "2ª Travessa da Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603630",
+    "RUA": "Rua da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603633",
+    "RUA": "1ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603635",
+    "RUA": "2ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603637",
+    "RUA": "3ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603640",
+    "RUA": "4ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603643",
+    "RUA": "5ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603645",
+    "RUA": "6ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603647",
+    "RUA": "7ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603650",
+    "RUA": "8ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603653",
+    "RUA": "9ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603655",
+    "RUA": "10ª Travessa da Pedreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603660",
+    "RUA": "Rua Cristiano Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603663",
+    "RUA": "Travessa Cristiano Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603665",
+    "RUA": "Rua do Poço",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603670",
+    "RUA": "Rua São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603675",
+    "RUA": "Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603680",
+    "RUA": "Rua Wilton Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603685",
+    "RUA": "Travessa Wilton Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603690",
+    "RUA": "Rua 24 de Março",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65603700",
+    "RUA": "Avenida dos Canários",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603705",
+    "RUA": "Rua do Matadouro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603710",
+    "RUA": "Avenida das Andorinhas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603720",
+    "RUA": "Avenida Beija-Flor",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603730",
+    "RUA": "Avenida dos Pardais",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603740",
+    "RUA": "Rua Bem-te-vi",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603750",
+    "RUA": "Rua Pica-Pau",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603760",
+    "RUA": "Rua das Araras",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603770",
+    "RUA": "Rua João de Barro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603775",
+    "RUA": "Rua do Juriti",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Raiz"
+  },
+  {
+    "CEP": "65603800",
+    "RUA": "Rua da Bandeira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603815",
+    "RUA": "Travessa Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603820",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603825",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603830",
+    "RUA": "Rua Marcia Marinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603840",
+    "RUA": "Rua dos Eucaliptos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603850",
+    "RUA": "Rua Matadouro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603860",
+    "RUA": "Rua do Cemitério",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65603870",
+    "RUA": "Rua São Sebastião",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bacuri"
+  },
+  {
+    "CEP": "65604000",
+    "RUA": "Rua Afonso Cunha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604010",
+    "RUA": "Praça Gonçalves Dias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604020",
+    "RUA": "Rua Benedito Leite",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604030",
+    "RUA": "Rua Cristino Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604040",
+    "RUA": "Praça João Castelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604050",
+    "RUA": "Rua Doutor Berredo",
+    "COMPLEMENTO": "- até 922/923",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604052",
+    "RUA": "Rua Doutor Berredo",
+    "COMPLEMENTO": "- de 924/925 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604055",
+    "RUA": "Rua Alfredo Beleza",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604060",
+    "RUA": "Rua Aarão Reis",
+    "COMPLEMENTO": "- de 1102/1103 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604080",
+    "RUA": "Rua Professora Ana Corrêa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604090",
+    "RUA": "Rua General Sampaio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Morro do Alecrim"
+  },
+  {
+    "CEP": "65604110",
+    "RUA": "Avenida Bandeirante",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604115",
+    "RUA": "Rua do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604120",
+    "RUA": "Rua Bom Jesus dos Passos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604130",
+    "RUA": "Travessa Bom Jesus dos Passos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604140",
+    "RUA": "Travessa Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604160",
+    "RUA": "Rua Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604170",
+    "RUA": "Avenida Castelo Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604180",
+    "RUA": "1ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604190",
+    "RUA": "2ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604197",
+    "RUA": "Travessa Pé da Ladeira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604200",
+    "RUA": "Travessa General Sampaio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604210",
+    "RUA": "Rua Marechal Costa e Silva",
+    "COMPLEMENTO": "- de 1076/1077 ao fim",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604220",
+    "RUA": "Travessa Marechal Costa e Silva",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604230",
+    "RUA": "Rua Presidente Kennedy",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604235",
+    "RUA": "Avenida Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604240",
+    "RUA": "Travessa Presidente Kennedy",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Castelo Branco"
+  },
+  {
+    "CEP": "65604250",
+    "RUA": "Largo Raimundo Santos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604253",
+    "RUA": "Travessa Joaquim Nabuco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604260",
+    "RUA": "Avenida Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604270",
+    "RUA": "1ª Travessa Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604280",
+    "RUA": "2ª Travessa Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604285",
+    "RUA": "3ª Travessa Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604290",
+    "RUA": "Rua Duque de Caxias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604300",
+    "RUA": "Travessa Duque de Caxias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604310",
+    "RUA": "Avenida Jerusalém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604320",
+    "RUA": "Travessa Jerusalém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604325",
+    "RUA": "Rua Airton Sena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604330",
+    "RUA": "Rua Alto da Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604331",
+    "RUA": "2ª Travessa Alto da Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604335",
+    "RUA": "Rua das Goiabeiras",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604340",
+    "RUA": "Rua Frei Serafim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604343",
+    "RUA": "Travessa Frei Serafim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604344",
+    "RUA": "Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604345",
+    "RUA": "Rua Coelho Neto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604346",
+    "RUA": "Rua Gonçalves Dias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604347",
+    "RUA": "Rua Vespasiano Ramos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604348",
+    "RUA": "Rua Victor Gonçalves Neto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604350",
+    "RUA": "Rua Santa Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604360",
+    "RUA": "Rua da Alegria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65604370",
+    "RUA": "Travessa Morro do Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Morro do Alecrim"
+  },
+  {
+    "CEP": "65604375",
+    "RUA": "Travessa General Sampaio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Morro do Alecrim"
+  },
+  {
+    "CEP": "65604377",
+    "RUA": "Travessa João da Costa Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Morro do Alecrim"
+  },
+  {
+    "CEP": "65604380",
+    "RUA": "Rua do Morro do Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Morro do Alecrim"
+  },
+  {
+    "CEP": "65604390",
+    "RUA": "Travessa Alto da Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604410",
+    "RUA": "Rua Treze de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604420",
+    "RUA": "Rua Luís Rocha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604430",
+    "RUA": "Travessa Luís Rocha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604470",
+    "RUA": "Travessa Frei Serafim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604480",
+    "RUA": "Rua Manoel Araújo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604490",
+    "RUA": "Rua Galdino de Jesus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65604511",
+    "RUA": "Avenida Pedreira",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604515",
+    "RUA": "Rua da Prosperidade",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604520",
+    "RUA": "Avenida Quinze de Novembro",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604525",
+    "RUA": "Rua Professor Arlindo Oliveira",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604530",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604531",
+    "RUA": "Rua da Paz",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604535",
+    "RUA": "Avenida Caxias",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604540",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604542",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604544",
+    "RUA": "Rua Quatro",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604546",
+    "RUA": "Rua Cinco",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604548",
+    "RUA": "Rua Seis",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604550",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604552",
+    "RUA": "Rua Oito",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604554",
+    "RUA": "Rua Nove",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604556",
+    "RUA": "Rua Dez",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604560",
+    "RUA": "Avenida Matões",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604563",
+    "RUA": "Rua Onze",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604565",
+    "RUA": "Rua Doze",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604567",
+    "RUA": "Rua Treze",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604569",
+    "RUA": "Rua Quatorze",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604571",
+    "RUA": "Rua Quinze",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604573",
+    "RUA": "Rua Dezesseis",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604575",
+    "RUA": "Rua Dezessete",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604577",
+    "RUA": "Rua Dezoito",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604579",
+    "RUA": "Rua Dezenove",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604580",
+    "RUA": "Avenida Dois de Fevereiro",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604583",
+    "RUA": "Rua Vinte",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604585",
+    "RUA": "Rua Vinte e Um",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604587",
+    "RUA": "Rua Vinte e Dois",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604589",
+    "RUA": "Rua Vinte e Três",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604591",
+    "RUA": "Rua Vinte e Quatro",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604593",
+    "RUA": "Rua Vinte e Cinco",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604595",
+    "RUA": "Rua Vinte e Seis",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604597",
+    "RUA": "Rua da Felicidade",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604599",
+    "RUA": "Rua da Harmonia",
+    "COMPLEMENTO": "(Res Eugênio Coutinho)",
+    "BAIRRO": "Teso Duro"
+  },
+  {
+    "CEP": "65604603",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604605",
+    "RUA": "Rua Quatro",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604609",
+    "RUA": "Rua Seis",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604610",
+    "RUA": "Avenida Um",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604613",
+    "RUA": "Rua Vinte",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604615",
+    "RUA": "Rua Vinte e Dois",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604617",
+    "RUA": "Rua Vinte e Seis",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604620",
+    "RUA": "Avenida Dois",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604630",
+    "RUA": "Avenida Três",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604632",
+    "RUA": "Rua Vinte e Quatro",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604633",
+    "RUA": "Rua Vinte e Cinco",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604635",
+    "RUA": "Rua Vinte e Sete",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604637",
+    "RUA": "Rua Vinte e Oito",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604640",
+    "RUA": "Avenida Quatro",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604643",
+    "RUA": "Rua Dezenove",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604645",
+    "RUA": "Rua Dezesseis",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604650",
+    "RUA": "Avenida Seis",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604652",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604653",
+    "RUA": "Rua Dez",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604655",
+    "RUA": "Rua Onze",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604657",
+    "RUA": "Rua Dezessete",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604659",
+    "RUA": "Rua Dezoito",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604660",
+    "RUA": "Avenida Sete",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604661",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604663",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604665",
+    "RUA": "Rua Oito",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604667",
+    "RUA": "Rua Treze",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604669",
+    "RUA": "Rua Catorze",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604670",
+    "RUA": "Rua Quinze",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604673",
+    "RUA": "Rua Vinte e Um",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604675",
+    "RUA": "Rua Vinte e Três",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604680",
+    "RUA": "Avenida Benjamin Constant",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604683",
+    "RUA": "Rua Cinco",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604685",
+    "RUA": "Rua Nove",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604687",
+    "RUA": "Rua Doze",
+    "COMPLEMENTO": "(COHAB)",
+    "BAIRRO": "Nova Caxias"
+  },
+  {
+    "CEP": "65604700",
+    "RUA": "Rua Marcia Marinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604710",
+    "RUA": "Rua Amazonas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604720",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604725",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604730",
+    "RUA": "Rua da Amizade",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604735",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604740",
+    "RUA": "Travessa Jerusalém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604745",
+    "RUA": "Rua Paulo e Marcia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604750",
+    "RUA": "Rua São Jorge",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604760",
+    "RUA": "Rua Ismael Ribeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604765",
+    "RUA": "Travessa Ismael Ribeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604770",
+    "RUA": "Travessa Treze de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604780",
+    "RUA": "Rua Raimundo Brandão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "José Castro"
+  },
+  {
+    "CEP": "65604800",
+    "RUA": "Rua Salvador Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604810",
+    "RUA": "Rua Marechal Rondon",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604815",
+    "RUA": "Rua São Bernardo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604820",
+    "RUA": "Rua Antonio Ximenes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604825",
+    "RUA": "Rua Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604830",
+    "RUA": "Rua Nossa Senhora da Conceição",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604835",
+    "RUA": "Rua Dezesseis de Fevereiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604840",
+    "RUA": "Rua São Vicente de Paula",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604845",
+    "RUA": "Rua Senador Alexandre Costa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604847",
+    "RUA": "Travessa Alexandre Costa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604850",
+    "RUA": "Rua Senador João Castelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604855",
+    "RUA": "Rua Senador Epitácio Cafeteira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604860",
+    "RUA": "Rua do Piquizeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604865",
+    "RUA": "Travessa do Piquizeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604870",
+    "RUA": "Rua Rio Claro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604875",
+    "RUA": "Rua Senador João Alberto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604880",
+    "RUA": "Rua Lelis Bezerra",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604885",
+    "RUA": "Rua Edson Lobão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65604890",
+    "RUA": "Avenida Alvorada",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Mutirão"
+  },
+  {
+    "CEP": "65605000",
+    "RUA": "Avenida Manoel Emídio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605005",
+    "RUA": "3ª Travessa Manoel Emídio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605010",
+    "RUA": "Rua Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605013",
+    "RUA": "1ª Travessa Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605015",
+    "RUA": "2ª Travessa Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605017",
+    "RUA": "3ª Travessa Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605019",
+    "RUA": "4ª Travessa Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605020",
+    "RUA": "Rua João Viana",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605030",
+    "RUA": "Rua Hilton Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605040",
+    "RUA": "Rua Natal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605045",
+    "RUA": "Travessa Natal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605047",
+    "RUA": "Rua São Lourenço",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605050",
+    "RUA": "Rua São Sebastião",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605060",
+    "RUA": "Rua Girassol",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605070",
+    "RUA": "Rua Jabuticaba",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605075",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605080",
+    "RUA": "Rua Ameixa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605090",
+    "RUA": "Rua São Bento",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605095",
+    "RUA": "Travessa São Bento",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605097",
+    "RUA": "2ª Travessa São Bento",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605100",
+    "RUA": "Rua Deus é Amor",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605105",
+    "RUA": "Rua Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605115",
+    "RUA": "3ª Travessa Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605120",
+    "RUA": "Rua Macaúba",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605130",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605135",
+    "RUA": "Travessa da Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605140",
+    "RUA": "Rua Maracujá",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605150",
+    "RUA": "Rua da Mangueira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605155",
+    "RUA": "1ª Travessa da Mangueira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605157",
+    "RUA": "2ª Travessa da Mangueira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605160",
+    "RUA": "Rua São Domingos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605170",
+    "RUA": "Rua Edson Vidigal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605175",
+    "RUA": "Rua do Poço",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605180",
+    "RUA": "Avenida Benjamin Constant",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605190",
+    "RUA": "Avenida Central",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605193",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 554",
+    "BAIRRO": "500 ao Km 555"
+  },
+  {
+    "CEP": "65605195",
+    "RUA": "Rua Frei Serafim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "João Viana"
+  },
+  {
+    "CEP": "65605200",
+    "RUA": "Rua Paulo Fonseca",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605205",
+    "RUA": "Travessa Paulo Fonseca",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605207",
+    "RUA": "Rua Airton Sena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605210",
+    "RUA": "Rua Bom Jesus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605215",
+    "RUA": "1ª Travessa Bom Jesus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605217",
+    "RUA": "2ª Travessa Bom Jesus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605220",
+    "RUA": "Rua Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605225",
+    "RUA": "1ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605227",
+    "RUA": "2ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605230",
+    "RUA": "1ª Travessa Manoel Emídio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605240",
+    "RUA": "Rua Alto da Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605250",
+    "RUA": "Rua da Amizade",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605260",
+    "RUA": "Rua Marcia Marinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605270",
+    "RUA": "Rua São Bento",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Bela Vista"
+  },
+  {
+    "CEP": "65605295",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 553",
+    "BAIRRO": "200 ao Km 554"
+  },
+  {
+    "CEP": "65605300",
+    "RUA": "Avenida Alexandre Costa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605305",
+    "RUA": "Rua Gonçalves Dias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605310",
+    "RUA": "Rua Presidente Dutra",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605315",
+    "RUA": "Rua Loreto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605320",
+    "RUA": "Travessa Loreto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605325",
+    "RUA": "Rua Grajaú",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605330",
+    "RUA": "Rua Projetada",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605335",
+    "RUA": "Rua Balsas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605340",
+    "RUA": "Rua Bacabal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605345",
+    "RUA": "Rua Colinas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605350",
+    "RUA": "Rua Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605360",
+    "RUA": "3ª Travessa Alto da Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605370",
+    "RUA": "Rua Pirapemas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605375",
+    "RUA": "Rua Pedreiras",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605380",
+    "RUA": "Rua Nova Iorque",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605385",
+    "RUA": "Rua Axixá",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605390",
+    "RUA": "Rua Airton Sena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605393",
+    "RUA": "Travessa Airton Sena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Dinir Silva"
+  },
+  {
+    "CEP": "65605395",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 542",
+    "BAIRRO": "500 ao Km 553"
+  },
+  {
+    "CEP": "65605500",
+    "RUA": "Avenida Volta Redonda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605501",
+    "RUA": "Rua Parnarama",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605503",
+    "RUA": "Rua Penalva",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605510",
+    "RUA": "Rua Arari",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605513",
+    "RUA": "Rua Tutóia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605515",
+    "RUA": "Avenida Alexandre Costa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605520",
+    "RUA": "Rua Esperantinopólis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605530",
+    "RUA": "Rua Presidente Dutra",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605535",
+    "RUA": "Rua Riachão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605540",
+    "RUA": "Rua Colinas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605545",
+    "RUA": "Rua Pio XII",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605547",
+    "RUA": "Rua Santa Inês",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605550",
+    "RUA": "Rua Pedreiras",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605555",
+    "RUA": "Rua Nova Iorque",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605560",
+    "RUA": "Rua Barreirinhas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605563",
+    "RUA": "Rua Lima Campos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605565",
+    "RUA": "Rua Itapecuru",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605570",
+    "RUA": "Rua Tutum",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605575",
+    "RUA": "Rua Palestina",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605580",
+    "RUA": "2ª Travessa da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605583",
+    "RUA": "Rua Icatu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605585",
+    "RUA": "Rua Amarantes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605587",
+    "RUA": "Rua Chapadinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Lobão"
+  },
+  {
+    "CEP": "65605600",
+    "RUA": "Rua Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605605",
+    "RUA": "Rua Monções",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605610",
+    "RUA": "1ª Travessa Monções",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605613",
+    "RUA": "2ª Travessa Monções",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605615",
+    "RUA": "3ª Travessa Monções",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605620",
+    "RUA": "Travessa do Campo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605623",
+    "RUA": "Rua Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605625",
+    "RUA": "Rua Evangelista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605630",
+    "RUA": "Rua Matões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605633",
+    "RUA": "Travessa Matões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605635",
+    "RUA": "Rua Quinze de Novembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605640",
+    "RUA": "Rua do Campo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605645",
+    "RUA": "Travessa Vinte e Um de Abril",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605650",
+    "RUA": "Rua Zé Doca",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605655",
+    "RUA": "Travessa Zé Doca",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605660",
+    "RUA": "Rua Açailândia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605663",
+    "RUA": "Rua Sucupira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605665",
+    "RUA": "Rua Miranda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605667",
+    "RUA": "Rua Pindaré Mirim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605670",
+    "RUA": "Rua do Mangueirão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605673",
+    "RUA": "1ª Travessa do Mangueirão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605675",
+    "RUA": "2ª Travessa do Mangueirão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605677",
+    "RUA": "3ª Travessa do Mangueirão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605680",
+    "RUA": "Rua Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605685",
+    "RUA": "Rua Carema",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605687",
+    "RUA": "Rua Carolina",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605689",
+    "RUA": "Travessa do Poço",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605690",
+    "RUA": "Avenida São Luís",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605693",
+    "RUA": "Rua Capinzal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65605695",
+    "RUA": "Rua do Sol",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila Alecrim"
+  },
+  {
+    "CEP": "65606000",
+    "RUA": "Rua Desembargador Morato",
+    "COMPLEMENTO": "- lado ímpar",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606010",
+    "RUA": "Praça Cândido Mendes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606015",
+    "RUA": "Rua Desembargador Morato",
+    "COMPLEMENTO": "- lado par",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606016",
+    "RUA": "Travessa José Guimarães",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606020",
+    "RUA": "Rua Aarão Reis",
+    "COMPLEMENTO": "- até 1100/1101",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606030",
+    "RUA": "Travessa Aarão Reis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606040",
+    "RUA": "Travessa do Hospital",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606050",
+    "RUA": "Travessa dos Remédios",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606060",
+    "RUA": "Praça Magalhães de Almeida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606070",
+    "RUA": "Rua Primeiro de Agosto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606080",
+    "RUA": "Rua Antônio Joaquim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606090",
+    "RUA": "Rua Delfinópolis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606100",
+    "RUA": "Rua Teixeira Mendes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606110",
+    "RUA": "Rua do Norte",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606120",
+    "RUA": "Rua Bom Pastor",
+    "COMPLEMENTO": "- de 628/629 ao fim",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606130",
+    "RUA": "Rua Itapecuru",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606140",
+    "RUA": "Travessa Raimundo Vilanova Assunção",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606150",
+    "RUA": "Praça Salustiano Rego",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606160",
+    "RUA": "Rua Gustavo Colaço",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606170",
+    "RUA": "Praça Cesário Lima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606180",
+    "RUA": "Rua Treze de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606185",
+    "RUA": "Travessa José Vieira Chaves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606190",
+    "RUA": "Rua Sinésio Santos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606200",
+    "RUA": "Travessa do Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606210",
+    "RUA": "Rua do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606220",
+    "RUA": "Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606221",
+    "RUA": "1ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606222",
+    "RUA": "2ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606223",
+    "RUA": "3ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606224",
+    "RUA": "4ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606225",
+    "RUA": "5ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606226",
+    "RUA": "6ª Travessa do Angelim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606230",
+    "RUA": "Travessa do Pé do Morro Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606240",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606250",
+    "RUA": "Rua do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606260",
+    "RUA": "1ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606270",
+    "RUA": "2ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606275",
+    "RUA": "3ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606280",
+    "RUA": "Rua Tiradentes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606283",
+    "RUA": "Rua Quarenta",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606290",
+    "RUA": "Rua do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606300",
+    "RUA": "1ª Travessa do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606310",
+    "RUA": "2ª Travessa do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606316",
+    "RUA": "1ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606317",
+    "RUA": "2ª Travessa Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606320",
+    "RUA": "Rua do Sol",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606330",
+    "RUA": "Rua Bela Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606340",
+    "RUA": "Rua Vinte e Um de Abril",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606350",
+    "RUA": "Travessa Vinte e Um de Abril",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606355",
+    "RUA": "Rua do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606359",
+    "RUA": "3ª Travessa do Espírito Santo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606360",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606370",
+    "RUA": "Travessa São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606380",
+    "RUA": "Rua Monte Castelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606390",
+    "RUA": "Travessa Volta Redonda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606400",
+    "RUA": "Rua Aniceto Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606410",
+    "RUA": "Rua Professor Leôncio Magno",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606420",
+    "RUA": "Travessa Professor Leôncio Magno",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606430",
+    "RUA": "Rua Cristino Gonçalves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606440",
+    "RUA": "Rua Nossa Senhora da Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606450",
+    "RUA": "Travessa Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606460",
+    "RUA": "Travessa Senador Alexendre",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606470",
+    "RUA": "Rua do Fio da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606480",
+    "RUA": "Rua Quinze de Novembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606490",
+    "RUA": "Rua Rio Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606500",
+    "RUA": "2ª Rua Rio Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606505",
+    "RUA": "3ª Travessa Rio Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606510",
+    "RUA": "Rua Costa Sobrinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606520",
+    "RUA": "Travessa Costa Sobrinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606525",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 550",
+    "BAIRRO": "000 ao Km 552"
+  },
+  {
+    "CEP": "65606530",
+    "RUA": "Rua Senador Clodomir Cardoso",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606535",
+    "RUA": "Travessa Senador Clodomir Cardoso",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606540",
+    "RUA": "Rua Porto da Pólvora",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606550",
+    "RUA": "Rua das Lages",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606560",
+    "RUA": "Travessa das Lages",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606570",
+    "RUA": "Rua Barrinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606580",
+    "RUA": "Rua Cotovelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606590",
+    "RUA": "Rua do Porto das Pedras",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606600",
+    "RUA": "Rua do Itapecuruzinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606620",
+    "RUA": "Rua Riachuelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606630",
+    "RUA": "Rua Alecrim",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65606640",
+    "RUA": "Travessa Cotovelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606650",
+    "RUA": "2ª Travessa Cotovelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606660",
+    "RUA": "4ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606670",
+    "RUA": "Travessa Tiradentes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Cangalheiro"
+  },
+  {
+    "CEP": "65606690",
+    "RUA": "Avenida Edson Lobão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606700",
+    "RUA": "Travessa Cristino Gonçalves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606701",
+    "RUA": "2ª Travessa Cristino Gonçalves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606710",
+    "RUA": "Rua do Cajueiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606720",
+    "RUA": "2ª Travessa Nossa Senhora de Fátima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606730",
+    "RUA": "Avenida Volta Redonda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606733",
+    "RUA": "Beco Antônio Edson",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606740",
+    "RUA": "Rua da Bandeira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606743",
+    "RUA": "Rua Lis Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Volta Redonda"
+  },
+  {
+    "CEP": "65606760",
+    "RUA": "Rua da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606762",
+    "RUA": "2ª Travessa da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606764",
+    "RUA": "3ª Travessa da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606765",
+    "RUA": "4ª Travessa da Coheb",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606767",
+    "RUA": "Rua Cento e Cinquenta",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606769",
+    "RUA": "Rua Primeiro de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606770",
+    "RUA": "Rua Santa Maria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606771",
+    "RUA": "Travessa Santa Maria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606775",
+    "RUA": "Rua Cinco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606777",
+    "RUA": "Rua Doutora Ana Karine",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606780",
+    "RUA": "Rua do Campo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606787",
+    "RUA": "Travessa da Igreja",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606790",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606793",
+    "RUA": "Rua Principal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606795",
+    "RUA": "Rua Santo Antonio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606800",
+    "RUA": "Rua Nova Vida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606801",
+    "RUA": "Rua Projetada",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606803",
+    "RUA": "1ª Travessa Nova Vida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606804",
+    "RUA": "Rua Primavera",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606805",
+    "RUA": "2ª Travessa Nova Vida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606807",
+    "RUA": "3ª Travessa Nova Vida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606809",
+    "RUA": "4ª Travessa Nova Vida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606810",
+    "RUA": "Travessa Posto Fiscal",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606813",
+    "RUA": "Travessa São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606815",
+    "RUA": "Rodovia MA-034",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Vila São José"
+  },
+  {
+    "CEP": "65606860",
+    "RUA": "Avenida Constantino Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606861",
+    "RUA": "Rodovia MA-034",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606863",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606864",
+    "RUA": "Rua Quatro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606865",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606867",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606869",
+    "RUA": "Rua Seis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606870",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606871",
+    "RUA": "Rua Oito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606872",
+    "RUA": "Rua Nove",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606874",
+    "RUA": "Rua Dez",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606875",
+    "RUA": "Rua Onze",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606877",
+    "RUA": "Rua Vinte e Três",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65606880",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 550",
+    "BAIRRO": "000 ao Km 551"
+  },
+  {
+    "CEP": "65606882",
+    "RUA": "1ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606883",
+    "RUA": "Rua Velha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606884",
+    "RUA": "2ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606885",
+    "RUA": "Rodovia MA-034",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606887",
+    "RUA": "Rua Veneza",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606889",
+    "RUA": "Travessa da Rua Velha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606895",
+    "RUA": "Rua Bacelar",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606896",
+    "RUA": "Rua Itapecuruzinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65606897",
+    "RUA": "Acesso Balneário Veneza",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607000",
+    "RUA": "Rua Gil Gouveia Macieira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607010",
+    "RUA": "Rua Miguel Sobrinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607020",
+    "RUA": "Rua João Pereira Lubambo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607030",
+    "RUA": "Rua Bom Pastor",
+    "COMPLEMENTO": "- até 626/627",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607040",
+    "RUA": "Rua Djalma Machado",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607050",
+    "RUA": "1ª Travessa Palmeirinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607060",
+    "RUA": "2ª Travessa Palmeirinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607070",
+    "RUA": "3ª Travessa Palmeirinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607080",
+    "RUA": "Rua da Raiz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65607090",
+    "RUA": "Rua Murilo Azevedo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65607100",
+    "RUA": "Beco do Porto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65607110",
+    "RUA": "Travessa São Benedito",
+    "COMPLEMENTO": "- até 469/470",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607120",
+    "RUA": "Travessa da Paz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607130",
+    "RUA": "Travessa Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607140",
+    "RUA": "Beco Vicente Oliveira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607150",
+    "RUA": "Travessa São Cristóvão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607160",
+    "RUA": "3ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607170",
+    "RUA": "Praça da Estação Rodoviária",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607180",
+    "RUA": "Rua Cabana da Serra",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607190",
+    "RUA": "1ª Travessa da BR",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607200",
+    "RUA": "2ª Travessa da BR",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607210",
+    "RUA": "2ª Travessa São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65607220",
+    "RUA": "3ª Travessa da BR",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607230",
+    "RUA": "3ª Travessa da Vila São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65607240",
+    "RUA": "Rua da Sulina",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65607250",
+    "RUA": "Travessa Boa Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65607260",
+    "RUA": "Rua Doutor Marcelo Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607270",
+    "RUA": "Travessa Doutor Marcelo Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607280",
+    "RUA": "Rua Dois",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607290",
+    "RUA": "Rua da Ferrovia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607295",
+    "RUA": "1ª Travessa da Ferrovia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607297",
+    "RUA": "2ª Travessa Ferrovia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65607300",
+    "RUA": "3ª Travessa da Ferrovia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607305",
+    "RUA": "Rua dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607307",
+    "RUA": "Rua José Nunes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607310",
+    "RUA": "5ª Travessa dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607315",
+    "RUA": "3ª Travessa dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607320",
+    "RUA": "4ª Travessa dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607330",
+    "RUA": "Rua Campo da Sulina",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65607340",
+    "RUA": "Rua Conselheiro Furtado",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65607350",
+    "RUA": "Rua Sete de Setembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607360",
+    "RUA": "Travessa Sete de Setembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607365",
+    "RUA": "Avenida Rodrigo Otávio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607370",
+    "RUA": "Rua Odorico Mendes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607380",
+    "RUA": "1ª Travessa Odorico Mendes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607390",
+    "RUA": "2ª Travessa Odorico Mendes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607400",
+    "RUA": "Rua Magalhães de Almeida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607410",
+    "RUA": "Rua Primeiro de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607420",
+    "RUA": "Travessa Primeiro de Maio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607430",
+    "RUA": "Rua Cândido Alves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607440",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607450",
+    "RUA": "1ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607460",
+    "RUA": "2ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607470",
+    "RUA": "3ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607480",
+    "RUA": "4ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607490",
+    "RUA": "Rua Marechal Deodoro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607500",
+    "RUA": "5ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607510",
+    "RUA": "6ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607520",
+    "RUA": "7ª Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607530",
+    "RUA": "Rua da Fazendinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607540",
+    "RUA": "Travessa da Fazendinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607550",
+    "RUA": "Praça Nossa Senhora de Nazaré",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607570",
+    "RUA": "1ª Travessa Aniceto Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607580",
+    "RUA": "2ª Travessa Aniceto Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607590",
+    "RUA": "3ª Travessa Aniceto Cruz",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607600",
+    "RUA": "Rua Belo Horizonte",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607610",
+    "RUA": "Rua do Matadouro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607620",
+    "RUA": "Travessa do Matadouro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607630",
+    "RUA": "Rua Padre Aderson Guimarães",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607640",
+    "RUA": "Rua Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607650",
+    "RUA": "1ª Travessa Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607660",
+    "RUA": "2ª Travessa Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607670",
+    "RUA": "Rua São Judas Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65607680",
+    "RUA": "Rua Rio de Janeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65607700",
+    "RUA": "Avenida João Alves de Lima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607703",
+    "RUA": "Rua Júnior Martins",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607705",
+    "RUA": "Avenida João Martins",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607707",
+    "RUA": "Rua Pedro Batista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607709",
+    "RUA": "Rua Jovana Verônica",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607710",
+    "RUA": "Rua Vinte de Novembro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607713",
+    "RUA": "Rua Alvino Batista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607715",
+    "RUA": "Rua Roseno Barbosa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607717",
+    "RUA": "Rua Evangelista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607719",
+    "RUA": "Rua Nossa Senhora das Graças",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607720",
+    "RUA": "Rua Cleonice Lima",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607723",
+    "RUA": "Rua José Gracy",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607725",
+    "RUA": "Rua Luis dos Santos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607726",
+    "RUA": "Rua do Piquizeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607727",
+    "RUA": "Rua Santa Quitéria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607729",
+    "RUA": "Rua Assíria",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607730",
+    "RUA": "Rua Jadiel Carvalho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607731",
+    "RUA": "Rua Josel da Silva",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607732",
+    "RUA": "Rua Raimundo Sampaio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Luiza Queiroz"
+  },
+  {
+    "CEP": "65607760",
+    "RUA": "Rua da Piçarreira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fumo Verde"
+  },
+  {
+    "CEP": "65607762",
+    "RUA": "Parque Veneza",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fumo Verde"
+  },
+  {
+    "CEP": "65607764",
+    "RUA": "Rua das Casinhas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fumo Verde"
+  },
+  {
+    "CEP": "65607765",
+    "RUA": "Rua Nossa Senhora do Carmo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fumo Verde"
+  },
+  {
+    "CEP": "65607775",
+    "RUA": "Rodovia MA-034",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fumo Verde"
+  },
+  {
+    "CEP": "65607780",
+    "RUA": "Avenida Dulcimar Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65607785",
+    "RUA": "Rua Filomena Castro Barros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65607790",
+    "RUA": "Rua Hermínia Ferreira de Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65607793",
+    "RUA": "Rua Itapecuruzinho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65607795",
+    "RUA": "Rua Bacuri",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pampulha"
+  },
+  {
+    "CEP": "65607800",
+    "RUA": "Rua Beira Rio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607810",
+    "RUA": "Rua Leste Oeste",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607813",
+    "RUA": "Rua Três",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607815",
+    "RUA": "Rua Norte Sul",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607816",
+    "RUA": "Travessa Norte Sul",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607817",
+    "RUA": "Rua Um",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607820",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607821",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607830",
+    "RUA": "Rua Francisco Vilanova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607833",
+    "RUA": "Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607835",
+    "RUA": "Rua Manoel Vilanova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607840",
+    "RUA": "Rua Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65607845",
+    "RUA": "Rua São Benedito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Itapecuruzinho"
+  },
+  {
+    "CEP": "65608010",
+    "RUA": "Rua Coronel Libânio Lobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608020",
+    "RUA": "Rua da Paz",
+    "COMPLEMENTO": "- até 602/603",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608030",
+    "RUA": "Rua Agostinho Reis",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608040",
+    "RUA": "Rua Quininha Pires",
+    "COMPLEMENTO": "- até 544/545",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608050",
+    "RUA": "Rua Siqueira Campos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608060",
+    "RUA": "Rua da Galeana",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608063",
+    "RUA": "Travessa da Galeana",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608065",
+    "RUA": "Rua Santa Mônica",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608070",
+    "RUA": "Travessa Siqueira Campos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608075",
+    "RUA": "Rua Raimundo S Magalhães",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608080",
+    "RUA": "Rua do Trilho Velho",
+    "COMPLEMENTO": "- até 1118/1119",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608090",
+    "RUA": "Rua Esplanada da Estação",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608093",
+    "RUA": "Rua Josafá Gomes",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608095",
+    "RUA": "Rua Maria da Conceição Soares",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608110",
+    "RUA": "Rua da Palmeirinha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608120",
+    "RUA": "Avenida Paulo Ramos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608130",
+    "RUA": "Rua Vinte e Quatro de Outubro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608140",
+    "RUA": "Avenida Getúlio Vargas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608150",
+    "RUA": "Rua Esplanada das Oficinas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608160",
+    "RUA": "Rua São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608165",
+    "RUA": "2ª Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608170",
+    "RUA": "Travessa Caetano Carvalho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608175",
+    "RUA": "Rua Menino Deus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608180",
+    "RUA": "Avenida Nereu Bittencourt",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608185",
+    "RUA": "Travessa Nereu Bittencourt",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608190",
+    "RUA": "Travessa Alcebíades Vilhena",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608200",
+    "RUA": "Travessa Luís Almeida",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608210",
+    "RUA": "Rua Menino Deus",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608220",
+    "RUA": "Rua da Estrela",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608230",
+    "RUA": "Rua dos Tamarineiros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608240",
+    "RUA": "1ª Travessa do Tamarineiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608250",
+    "RUA": "2ª Travessa do Tamarineiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608260",
+    "RUA": "Rua Santa Luzia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608270",
+    "RUA": "3ª Travessa do Tamarineiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608280",
+    "RUA": "4ª Travessa do Tamarineiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608290",
+    "RUA": "Vila Alto do Sossego",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608300",
+    "RUA": "1ª Travessa dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608310",
+    "RUA": "2ª Travessa dos Caldeirões",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608320",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608330",
+    "RUA": "Travessa São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608340",
+    "RUA": "Rua Vila São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608350",
+    "RUA": "1ª Travessa Vila São João",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608360",
+    "RUA": "Rua Bom Jesus dos Passos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608370",
+    "RUA": "Rua Boa Vista",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608380",
+    "RUA": "Rua Dezesseis de Janeiro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608390",
+    "RUA": "Beco do Capricho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608400",
+    "RUA": "Travessa do Sanharó",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608410",
+    "RUA": "Rua do Sanharó",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608420",
+    "RUA": "Avenida Pirajá",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608425",
+    "RUA": "Rua Marcos Rodrigues",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608440",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608450",
+    "RUA": "Rua São Cristóvão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608460",
+    "RUA": "Avenida Nossa Senhora de Nazaré",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608470",
+    "RUA": "Travessa Nossa Senhora de Nazaré",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608480",
+    "RUA": "Rua Godofredo Viana",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65608490",
+    "RUA": "Rua Anísio Vieira Chaves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608500",
+    "RUA": "Rua Sete",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608510",
+    "RUA": "Travessa São Pedro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608520",
+    "RUA": "2ª Travessa Sesoste Pereira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Seriema"
+  },
+  {
+    "CEP": "65608530",
+    "RUA": "Conjunto da Esplanada",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608540",
+    "RUA": "Rua Ana Amélia",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Centro"
+  },
+  {
+    "CEP": "65608550",
+    "RUA": "Rua Piauí",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608560",
+    "RUA": "Rua Padre Cícero",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608570",
+    "RUA": "Rua Belo Horizonte",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Caldeirões"
+  },
+  {
+    "CEP": "65608580",
+    "RUA": "Rua Morro da Santa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Tamarineiro"
+  },
+  {
+    "CEP": "65608600",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fazendinha"
+  },
+  {
+    "CEP": "65608605",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fazendinha"
+  },
+  {
+    "CEP": "65608610",
+    "RUA": "Rua Alto Alegre",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fazendinha"
+  },
+  {
+    "CEP": "65608615",
+    "RUA": "Rua Santa Clara",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Fazendinha"
+  },
+  {
+    "CEP": "65608690",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 547",
+    "BAIRRO": "200 ao Km 548"
+  },
+  {
+    "CEP": "65608700",
+    "RUA": "Avenida Pirajá",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608705",
+    "RUA": "Rua Padre Cícero",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608710",
+    "RUA": "Rua Amazonas",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608715",
+    "RUA": "Rua Belo Horizonte",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608720",
+    "RUA": "Rua Buriti",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608725",
+    "RUA": "Rua Piauí",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608730",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "(Vl DNER)",
+    "BAIRRO": "Pirajá"
+  },
+  {
+    "CEP": "65608790",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 546",
+    "BAIRRO": "000 ao Km 547"
+  },
+  {
+    "CEP": "65609000",
+    "RUA": "Rua Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609005",
+    "RUA": "Rua Norte Sul",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609010",
+    "RUA": "1ª Travessa Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609020",
+    "RUA": "2ª Travessa Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609030",
+    "RUA": "3ª Travessa Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609035",
+    "RUA": "5ª Travessa Maria do Rosário",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609040",
+    "RUA": "Rua Campo do Belém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609045",
+    "RUA": "Rua Sete - A",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609050",
+    "RUA": "Rua Campo do Fortaleza",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609070",
+    "RUA": "Avenida Doutor Walter Brito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609080",
+    "RUA": "1ª Travessa Doutor Walter Brito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609090",
+    "RUA": "2ª Travessa Doutor Walter Brito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609100",
+    "RUA": "Rua Jerusalém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609110",
+    "RUA": "Rua Santo Antônio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609120",
+    "RUA": "Travessa Santo Antônio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609130",
+    "RUA": "Rua Castelo Branco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609140",
+    "RUA": "Rua Ernesto Geisel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609145",
+    "RUA": "Travessa Ernesto Geisel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609150",
+    "RUA": "Rua Monte Claro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609160",
+    "RUA": "Rua Monte Carmelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609170",
+    "RUA": "Rua Raimundo Vieira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609180",
+    "RUA": "Rua José Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609190",
+    "RUA": "Travessa José Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609200",
+    "RUA": "Rua José Sarney",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609210",
+    "RUA": "Travessa José Sarney",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609220",
+    "RUA": "Travessa da Glória",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609230",
+    "RUA": "Rua Paulo VI",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609240",
+    "RUA": "Rua Paulo II",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609250",
+    "RUA": "Rua da Glória",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609255",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609260",
+    "RUA": "Praça Professor José Medeiros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609263",
+    "RUA": "Rua Santo Antônio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609265",
+    "RUA": "Rua José Medeiros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609270",
+    "RUA": "Avenida Rodrigo Otávio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609280",
+    "RUA": "1ª Travessa Rodrigo Otávio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65609290",
+    "RUA": "2ª Travessa Rodrigo Otávio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65609295",
+    "RUA": "Rua das Acácias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609297",
+    "RUA": "Travessa das Acácias",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609300",
+    "RUA": "Avenida da Independência",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609310",
+    "RUA": "Rua do Ejo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609315",
+    "RUA": "Rua do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609320",
+    "RUA": "Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609325",
+    "RUA": "2ª Travessa do Fio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609330",
+    "RUA": "Avenida Luis Sales",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609340",
+    "RUA": "Rua Primeiro de Agosto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609345",
+    "RUA": "Rua Beira Rio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609347",
+    "RUA": "Travessa Primeiro de Agosto",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609350",
+    "RUA": "Rua Vespasiano Ramos",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609360",
+    "RUA": "Rua Segisnando Moura",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609370",
+    "RUA": "Travessa Segisnando Moura",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609380",
+    "RUA": "Rua Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609390",
+    "RUA": "Travessa Santa Rita",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609400",
+    "RUA": "Rua Doutor Alarico Costa",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609410",
+    "RUA": "Avenida Francisco Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609420",
+    "RUA": "Travessa Francisco Castro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609430",
+    "RUA": "Travessa da União",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609440",
+    "RUA": "Rua São Vicente de Paula",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609450",
+    "RUA": "Rua Vera de Holanda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609455",
+    "RUA": "Rua Firmino de Carvalho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609460",
+    "RUA": "Rua José Firmino de Carvalho",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609470",
+    "RUA": "Rua Guilherme de Abreu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609480",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609490",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609495",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 548",
+    "BAIRRO": "111 ao Km 548"
+  },
+  {
+    "CEP": "65609500",
+    "RUA": "Travessa da Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609510",
+    "RUA": "Rua do Salobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609520",
+    "RUA": "Rua São Francisco",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609523",
+    "RUA": "Travessa da Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609525",
+    "RUA": "Rua Nova",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609527",
+    "RUA": "Rua Heráclito Noronha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609529",
+    "RUA": "Travessa Heráclito Noronha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609530",
+    "RUA": "Rua Campos Sales",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609533",
+    "RUA": "Rua São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609535",
+    "RUA": "Rua do Capão",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609537",
+    "RUA": "Rua Deputado José Resende",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609540",
+    "RUA": "Travessa Campos Sales",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609550",
+    "RUA": "Rua Jânio Quadros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609560",
+    "RUA": "Rua Ernesto Geisel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609565",
+    "RUA": "Travessa Janio Quadros",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609570",
+    "RUA": "Travessa Ernesto Geisel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609573",
+    "RUA": "2ª Travessa Ernesto Geisel",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609580",
+    "RUA": "Rua Getúlio Vargas",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609590",
+    "RUA": "Rua Berenice Castelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609600",
+    "RUA": "Travessa Berenice Castelo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609610",
+    "RUA": "Rua do Cemitério",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609620",
+    "RUA": "Rua do Parnazio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609623",
+    "RUA": "2ª Travessa do Parnásio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609625",
+    "RUA": "Travessa do Parnásio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609627",
+    "RUA": "Travessa José Tadeu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609630",
+    "RUA": "Travessa do Parnazio",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609635",
+    "RUA": "Rodovia BR-316",
+    "COMPLEMENTO": "\"- do Km 548",
+    "BAIRRO": "500 ao Km 549"
+  },
+  {
+    "CEP": "65609640",
+    "RUA": "Rua dos Prazeres",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609650",
+    "RUA": "Travessa dos Prazeres",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609660",
+    "RUA": "Rua Cantinho do Céu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609670",
+    "RUA": "Travessa do Salobo",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609680",
+    "RUA": "Travessa São José",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609700",
+    "RUA": "Travessa Cândido Alves",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Trezidela"
+  },
+  {
+    "CEP": "65609710",
+    "RUA": "3ª Travessa Walter Brito",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609720",
+    "RUA": "2ª Travessa Segisnando Moura",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609730",
+    "RUA": "Travessa São Vicente de Paula",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609740",
+    "RUA": "Travessa Vera de Holanda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609750",
+    "RUA": "Avenida Vera de Holanda",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Ponte"
+  },
+  {
+    "CEP": "65609760",
+    "RUA": "Travessa Campo do Belém",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609770",
+    "RUA": "Travessa Cantinho do Céu",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609780",
+    "RUA": "Rua Campo do Racha",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Salobro"
+  },
+  {
+    "CEP": "65609790",
+    "RUA": "Travessa Monte Claro",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609800",
+    "RUA": "Travessa Raimundo Vieira",
+    "COMPLEMENTO": "",
+    "BAIRRO": "Campo de Belém"
+  },
+  {
+    "CEP": "65609900",
+    "RUA": "\"Rua Sete - A",
+    "COMPLEMENTO": "s/n\"",
+    "BAIRRO": ""
+  }
+]

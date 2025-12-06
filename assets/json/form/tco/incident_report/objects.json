@@ -1,0 +1,28 @@
+{
+    "objects": [
+        {
+            "id": 1,
+            "name": "Apreendido"
+        },
+        {
+            "id": 2,
+            "name": "Furtado"
+        },
+        {
+            "id": 3,
+            "name": "Roubado"
+        },
+        {
+            "id": 4,
+            "name": "Perdido"
+        },
+        {
+            "id": 5,
+            "name": "Encontrado"
+        },
+        {
+            "id": 6,
+            "name": "Recuperado"
+        }
+    ]
+}

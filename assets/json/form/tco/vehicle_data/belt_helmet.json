@@ -1,0 +1,16 @@
+{
+    "beltOrHelmet": [
+        {
+            "id": 1,
+            "name": "Sim"
+        },
+        {
+            "id": 2,
+            "name": "Não"
+        },
+        {
+            "id": 3,
+            "name": "Ignorado"
+        }
+    ]
+}

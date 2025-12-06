@@ -1,0 +1,76 @@
+{
+  "othersEnvironment": [
+    {
+      "id": 1,
+      "name": "Horário de Funcionamento",
+      "options": [
+        "Diurno",
+        "Noturno",
+        "Diurno/Noturno",
+        "24 Horas"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Eventos",
+      "options": [
+        "Competição Esportiva",
+        "Competição Motorizada",
+        "Beneficente",
+        "Comício",
+        "Exposição Feira",
+        "Futebol",
+        "Festa",
+        "Greve",
+        "Invasão",
+        "Leilão",
+        "Passeata/Manifestação",
+        "Religioso",
+        "Rodeio",
+        "Show"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Circulação de Veículos",
+      "options": [
+        "Pouco",
+        "Normal",
+        "Intenso"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Circulação de Pessoas",
+      "options": [
+        "Pouco",
+        "Normal",
+        "Intensa"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Iluminação Artificial",
+      "options": [
+        "Não",
+        "Sim - Pouca Visibilidade",
+        "Sim - Boa Visibilidade"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Desordem",
+      "options": [
+        "Pichação",
+        "Lixo nas Ruas",
+        "Terrenos Baldios",
+        "Má Conservação de Vias",
+        "Má Conservação de Residências",
+        "Construções Ilegais",
+        "Ambulantes Ilegais",
+        "Utilização Irregular de Espaço Público",
+        "Consumo de Bebidas Alcoólicas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+    "educationLevel": [
+        {
+            "id": 1,
+            "name": "Não Alfabetizado",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Semi Analfabeto",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Fundamental",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Médio",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Superior",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Pós-Graduação",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Não Informado",
+            "options": [
+                "Completo",
+                "Incompleto",
+                "Cursando"
+            ]
+        }
+    ]
+}

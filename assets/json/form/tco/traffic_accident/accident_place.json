@@ -1,0 +1,64 @@
+{
+    "accidentPlace": [
+      {
+        "id": 1,
+        "name": "Luminosidade",
+        "options": [
+          "Amanhecer/Anoitecer",
+          "Luz do Dia",
+          "Noite (Via Iluminada)",
+          "Noite (Via sem Iluminação)"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tempo",
+        "options": [
+          "Bom",
+          "Chuva",
+          "Neblina",
+          "Neve",
+          "Nublado"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Controle de Tráfego",
+        "options": [
+          "Gesto de Policial",
+          "Semáforo",
+          "Sinalização Vertical",
+          "Sinalização Horizontal"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Sinalização Horizontal",
+        "options": [
+          "Marcas e Faixas Visíveis",
+          "Marcas e Faixas Não Visíveis",
+          "Inexistente"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Sinalização Vertical",
+        "options": [
+          "Placas Visíveis",
+          "Placas Não Visíveis",
+          "Inexistente"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Semáforo",
+        "options": [
+          "Funcionando",
+          "Desligado",
+          "Com Defeito",
+          "Intermitente"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,126 @@
+{
+    "employedMeans": [
+        {
+            "id": 1,
+            "name": "Arma de Fogo"
+        },
+        {
+            "id": 2,
+            "name": "Arma Branca"
+        },
+        {
+            "id": 3,
+            "name": "Arma de Brinquedo"
+        },
+        {
+            "id": 4,
+            "name": "Alavanca de Madeira"
+        },
+        {
+            "id": 5,
+            "name": "Alavanca de Metal"
+        },
+        {
+            "id": 6,
+            "name": "Alicate"
+        },
+        {
+            "id": 7,
+            "name": "Chave Falsa"
+        },
+        {
+            "id": 8,
+            "name": "Explosivo"
+        },
+        {
+            "id": 9,
+            "name": "Furadeira"
+        },
+        {
+            "id": 10,
+            "name": "Maçarico"
+        },
+        {
+            "id": 11,
+            "name": "Marreta/Martelo"
+        },
+        {
+            "id": 12,
+            "name": "Facão"
+        },
+        {
+            "id": 13,
+            "name": "Chave de Fenda"
+        },
+        {
+            "id": 14,
+            "name": "Foice"
+        },
+        {
+            "id": 15,
+            "name": "Serra"
+        },
+        {
+            "id": 16,
+            "name": "Picareta"
+        },
+        {
+            "id": 17,
+            "name": "Motosserra"
+        },
+        {
+            "id": 18,
+            "name": "Machado"
+        },
+        {
+            "id": 19,
+            "name": "Taco de Madeira"
+        },
+        {
+            "id": 20,
+            "name": "Força Física"
+        },
+        {
+            "id": 21,
+            "name": "Automóvel"
+        },
+        {
+            "id": 22,
+            "name": "Motocicleta"
+        },
+        {
+            "id": 23,
+            "name": "Outros"
+        }
+    ],
+    "madeDocs": [
+        {
+            "id": 1,
+            "name": "Compromisso do Autor"
+        },
+        {
+            "id": 2,
+            "name": "Manifestação do Ofendido"
+        },
+        {
+            "id": 3,
+            "name": "Dano: Requisição"
+        },
+        {
+            "id": 4,
+            "name": "Lesão Corporal: Requisição"
+        },
+        {
+            "id": 5,
+            "name": "Drogas Apreendidas"
+        },
+        {
+            "id": 6,
+            "name": "Apreensão"
+        },
+        {
+            "id": 7,
+            "name": "Depósito"
+        }
+    ]
+}

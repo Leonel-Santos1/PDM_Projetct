@@ -1,0 +1,20 @@
+{
+    "typeLesion": [
+        {
+            "id": 1,
+            "name": "Leve"
+        },
+        {
+            "id": 2,
+            "name": "Grave"
+        },
+        {
+            "id": 3,
+            "name": "Gravíssima"
+        },
+        {
+            "id": 4,
+            "name": "Ileso"
+        }
+    ]
+}

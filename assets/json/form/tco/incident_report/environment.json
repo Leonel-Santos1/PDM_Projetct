@@ -1,0 +1,227 @@
+{
+  "environment": [
+    {
+      "id": 1,
+      "name": "Atividade Financeira",
+      "options": [
+        "Agência Bancária",
+        "Caixa Eletrônico",
+        "Posto de Atendimento",
+        "Casa de Câmbio",
+        "Transporte de Valor",
+        "Casa Lotérica"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ensino",
+      "options": [
+        "Federal",
+        "Estadual",
+        "Municipal",
+        "Particular"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Saúde",
+      "options": [
+        "Clínica",
+        "Consultório",
+        "Farmácia",
+        "Hospital",
+        "Posto de Saúde"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Posto de Combustível",
+      "options": [
+        "Posto com Loja de Conveniência",
+        "Posto sem Loja de Conveniência"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Associação",
+      "options": [
+        "Clube Desportivo",
+        "Clube Social",
+        "Conselhos",
+        "de Bairro",
+        "Filantrópica",
+        "Política",
+        "Sindicato",
+        "Cooperativa",
+        "Religiosa (Igreja/Templo)"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Transporte",
+      "options": [
+        "Aeroporto",
+        "Porto",
+        "Terminal Urbano",
+        "Terminal Rodoviário",
+        "Terminal Ferroviário",
+        "de Carga",
+        "Ponto de Ônibus",
+        "Ponto de Táxi",
+        "Ônibus",
+        "Táxi",
+        "Marítimo/Fluvial"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Veículo",
+      "options": [
+        "Em Trânsito",
+        "Estacionamento Pago",
+        "Estacionamento Outros",
+        "Residência"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Residência",
+      "options": [
+        "Casa",
+        "Condomínio de Residências",
+        "Apartamento",
+        "Condomínio de Apartamentos"
+      ],
+      "qualification": [
+        "Morador Presente",
+        "Abandonada",
+        "Morador Ausente",
+        "Sem Morador",
+        "Em Construção"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mercado",
+      "options": [
+        "Mercearia",
+        "Supermercado",
+        "Feira",
+        "Ambulante",
+        "Atacado",
+        "Panificadora"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Alimentação Diversão",
+      "options": [
+        "Bar",
+        "Boliche",
+        "Casa Show",
+        "Circo",
+        "Danceteria",
+        "Lanchonete",
+        "Parque Diversão",
+        "Restaurante",
+        "Sorveteria",
+        "Teatro",
+        "Lan House",
+        "Cinema",
+        "Praça Desportiva",
+        "Centro de Eventos"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Comércio",
+      "options": [
+        "Armas Munição",
+        "Autopeças",
+        "Banca Revista",
+        "Bebidas",
+        "Calçados",
+        "Eletroeletrônicos",
+        "Informática",
+        "Joias/Relógios",
+        "Mat. Construção",
+        "Esportivo",
+        "Papelaria",
+        "Veículos",
+        "Vestuário",
+        "Vídeo Locadora",
+        "Móveis",
+        "Distribuidor de Gás",
+        "Shopping Center"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Indústria",
+      "options": [
+        "Alimentícia",
+        "Cerâmica",
+        "Madeireira",
+        "Metalurgia",
+        "Siderúrgica",
+        "Moveleira",
+        "Papel/Celulose",
+        "Petroquímica/Química",
+        "Agroindústria",
+        "Têxtil"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hospedagem",
+      "options": [
+        "Hotel",
+        "Motel",
+        "Pensão",
+        "Pousada",
+        "Albergue",
+        "Camping"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Prestação de Serviços",
+      "options": [
+        "Escritório",
+        "Estacionamento",
+        "Conserto/Reparo",
+        "Transportadora",
+        "Vigilância/Limpeza",
+        "Construtora",
+        "Agência dos Correios"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Órgão Público",
+      "options": [
+        "Internacional",
+        "Federal",
+        "Estadual",
+        "Municipal"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Outros Ambientes",
+      "options": [
+        "Praça/Parque",
+        "Terreno Baldio",
+        "Área de Mata",
+        "Praia",
+        "Lagoa",
+        "Outros"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Vias Públicas",
+      "options": []
+    }
+  ]
+}

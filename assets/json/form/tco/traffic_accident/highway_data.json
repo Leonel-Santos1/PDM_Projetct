@@ -1,0 +1,99 @@
+{
+    "highwayData": [
+        {
+            "id": 1,
+            "name": "Superfície da Pista",
+            "options": [
+                "Seco",
+                "Molhado",
+                "Enlameado",
+                "Oleoso",
+                "Danificado",
+                "Em Obras",
+                "Inundado"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tipo de Pavimento",
+            "options": [
+                "Lajota",
+                "Cascalho",
+                "Paralelepípedo",
+                "Concreto",
+                "Asfalto",
+                "Terra"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Defensa/Barreira",
+            "options": [
+                "Sim",
+                "Não"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Obras de Arte",
+            "options": [
+                "Viaduto",
+                "Passarela",
+                "Passagem Subterrânea",
+                "Ponte",
+                "Túnel",
+                "Não Há"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Traçado da Pista",
+            "options": [
+                "Curva Aberta",
+                "Curva Fechada",
+                "Tangente",
+                "Via Estreita"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Relevo da Pista",
+            "options": [
+                "Depressão",
+                "Lombada",
+                "Nível",
+                "Rampa",
+                "Inclinado"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Via com Pista",
+            "options": [
+                "Dupla",
+                "Simples",
+                "Múltipla",
+                "Outro"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tipo de Cruzamento/Intersecção",
+            "options": [
+                "Cruzamento",
+                "Trevo Alemão",
+                "Entroncamento",
+                "Rotatória",
+                "Não Há"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Mão de Direção",
+            "options": [
+                "Única",
+                "Dupla"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "freightDamage": [
+        {
+            "id": 1,
+            "name": "Parcial"
+        },
+        {
+            "id": 2,
+            "name": "Total"
+        },
+        {
+            "id": 3,
+            "name": "Sem Danos"
+        }
+    ],
+    "freightNature": [
+        {
+            "id": 1,
+            "name": "Prod. Per."
+        },
+        {
+            "id": 2,
+            "name": "Perecível"
+        },
+        {
+            "id": 3,
+            "name": "Indivisível"
+        },
+        {
+            "id": 4,
+            "name": "Outra"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "probableCauseAccident": [
+        {
+            "id": 1,
+            "name": "Falha Humana"
+        },
+        {
+            "id": 2,
+            "name": "Falha Mecânica"
+        },
+        {
+            "id": 3,
+            "name": "Falha na Via"
+        },
+        {
+            "id": 4,
+            "name": "Cond. Climáticas"
+        },
+        {
+            "id": 5,
+            "name": "Indeterminado"
+        }
+    ]
+}

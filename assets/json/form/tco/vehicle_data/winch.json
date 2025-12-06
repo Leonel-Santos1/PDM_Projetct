@@ -1,0 +1,16 @@
+{
+    "winch": [
+        {
+            "id": 1,
+            "name": "Seguradora"
+        },
+        {
+            "id": 2,
+            "name": "UPM"
+        },
+        {
+            "id": 3,
+            "name": "Outro"
+        }
+    ]
+}

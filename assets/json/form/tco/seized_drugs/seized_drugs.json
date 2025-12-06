@@ -1,0 +1,39 @@
+{
+    "wrapperType": [
+      {
+        "id": 1,
+        "name": "Papel"
+      },
+      {
+        "id": 2,
+        "name": "Plástico"
+      },
+      {
+        "id": 3,
+        "name": "Cigarro"
+      },
+      {
+        "id": 4,
+        "name": "Outros"
+      }
+    ],
+    "substanceType": [
+      {
+        "id": 1,
+        "name": "Maconha"
+      },
+      {
+        "id": 2,
+        "name": "Cocaína"
+      },
+      {
+        "id": 3,
+        "name": "Crack"
+      },
+      {
+        "id": 4,
+        "name": "Outros"
+      }
+    ]
+  }
+  

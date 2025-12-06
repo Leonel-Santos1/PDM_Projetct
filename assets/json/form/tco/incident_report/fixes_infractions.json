@@ -1,0 +1,2657 @@
+{
+  "laws": [
+    {
+      "Infração": "Lesão corporal leve",
+      "Artigo": "129, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Lesão corporal culposa",
+      "Artigo": "129, §  6º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Perigo de contágio venéreo",
+      "Artigo": "130, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Perigo para a vida ou saúde de outrem",
+      "Artigo": "132",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Exposição ou abandono de recém-nascido",
+      "Artigo": "134, caput",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão de socorro",
+      "Artigo": "135,caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão de socorro majorada pelo resultado",
+      "Artigo": "135, § ún.",
+      "Pena(s)": "9",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Maus tratos",
+      "Artigo": "136, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Rixa",
+      "Artigo": "137,  caput",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Rixa qualificada",
+      "Artigo": "137, § ún.",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Calúnia",
+      "Artigo": "138 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Priv./P.Cond",
+      "Multa": false
+    },
+    {
+      "Infração": "Difamação",
+      "Artigo": "139",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": false
+    },
+    {
+      "Infração": "Injúria",
+      "Artigo": "140",
+      "Pena(s)": "6",
+      "Ação Penal": "Privada",
+      "Multa": false
+    },
+    {
+      "Infração": "Injúria qualificada (real)",
+      "Artigo": "140, §  2º",
+      "Pena(s)": "12",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Constrangimento ilegal",
+      "Artigo": "146, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Ameaça",
+      "Artigo": "147",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de domicílio",
+      "Artigo": "150, caput",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de domicílio qualificada",
+      "Artigo": "150, §  1°",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de correspondência",
+      "Artigo": "151,  caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Sonegação ou destruição de correspondência",
+      "Artigo": "151, § 1º, I",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de comunicação telegráfica, radioelétrica ou telefônica",
+      "Artigo": "151, § 1º, II",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedimento de comunicação através dos meios acima referidos",
+      "Artigo": "151, § 1º, III",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Instalação ou uso ilegal de estação ou aparelho radioelétrico",
+      "Artigo": "151, § 1º, IV",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de correspondência comercial",
+      "Artigo": "152",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Divulgação de segredo",
+      "Artigo": "153",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de segredo profissional",
+      "Artigo": "154",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Furto de coisa comum ",
+      "Artigo": "156",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Alteração de limites",
+      "Artigo": "161, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Usurpação de águas",
+      "Artigo": "161, § 1º, I",
+      "Pena(s)": "6",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Esbulho possessório",
+      "Artigo": "161, § 1º, II",
+      "Pena(s)": "6",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Dano simples",
+      "Artigo": "163, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Privada",
+      "Multa": false
+    },
+    {
+      "Infração": "Introdução/abandono de animais propriedade alheia",
+      "Artigo": "164",
+      "Pena(s)": "6",
+      "Ação Penal": "Privada",
+      "Multa": false
+    },
+    {
+      "Infração": "Dano em coisa de valor artístico, arqueológico ou histórico",
+      "Artigo": "165 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Alteração de local especialmente protegido",
+      "Artigo": "166",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Apropriação de coisa havida por erro, caso fortuito ou força da natureza",
+      "Artigo": "169, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Apropriação de tesouro",
+      "Artigo": "169, § ún., I",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Apropriação de coisa achada",
+      "Artigo": "169, § ún., II",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fraude no comércio",
+      "Artigo": "175, caput *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fraude em refeição, alojamento e transporte",
+      "Artigo": "176, caput",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ.  Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fraudes e abusos na fundação ou administração de sociedade por ações",
+      "Artigo": "177, §  2° *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fraude à execução",
+      "Artigo": "179 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Privada",
+      "Multa": false
+    },
+    {
+      "Infração": "Receptação  culposa",
+      "Artigo": "180, § 3º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado contra a liberdade de trabalho",
+      "Artigo": "197,  I e II",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado contra a liberdade de contrato de trabalho e boicotagem violenta",
+      "Artigo": "198",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado contra a liberdade de associação",
+      "Artigo": "199",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Paralisação de trabalho, seguida de violência ou perturbação da ordem",
+      "Artigo": "200, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Paralisação de trabalho de interesse coletivo",
+      "Artigo": "201 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Frustração de direito assegurado por lei trabalhista",
+      "Artigo": "203 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Frustração de lei sobre a nacionalidade do trabalho",
+      "Artigo": "204",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc",
+      "Multa": false
+    },
+    {
+      "Infração": "Exercício de atividade com infração de decisão administrativa ",
+      "Artigo": "205 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Ultraje a culto e impedimento ou perturbação de ato a ele relativo",
+      "Artigo": "208, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedimento ou perturbação de cerimônia funerária",
+      "Artigo": "209, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Assédio sexual ",
+      "Artigo": "216 - A *",
+      "Pena(s)": "24",
+      "Ação Penal": "Priv./P.I-C",
+      "Multa": false
+    },
+    {
+      "Infração": "Ato obsceno",
+      "Artigo": "233",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Escrito ou objeto obsceno ",
+      "Artigo": "234 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Induzimento a erro essencial e ocultação de impedimento",
+      "Artigo": "236 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Conhecimento prévio de impedimento matrimonial",
+      "Artigo": "237",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Parto suposto Supressão ou alteração de direito inerente ao estado civil de recém-nascido ",
+      "Artigo": "242, § ún *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Entrega de filho menor à pessoa inidônea",
+      "Artigo": "245 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Abandono intelectual de filho",
+      "Artigo": "246",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Abandono moral de menor",
+      "Artigo": "247",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Induzimento à fuga, entrega arbitrária ou sonegação de incapazes",
+      "Artigo": "248",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Subtração de incapazes ",
+      "Artigo": "249 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Incêndio culposo",
+      "Artigo": "250, §  2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Explosão culposa, se é de dinamite ou similar",
+      "Artigo": "251, §  3º",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Explosão culposa, nos demais casos",
+      "Artigo": "251, §  3º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Uso culposo de gás tóxico ou asfixiante",
+      "Artigo": "252,  § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fabrico, fornecimento, aquisição, posse ou transporte de explosivos ou gás tóxico, ou asfixiante",
+      "Artigo": "253 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Inundação culposa",
+      "Artigo": "254 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desabamento ou desmoronamento culposos",
+      "Artigo": "256,  § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Difusão culposa de doença ou praga",
+      "Artigo": "259, § ún.",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Perigo de desastre ferroviário – culposo",
+      "Artigo": "260, §  2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado culposo contra a segurança de transporte marítimo, fluvial e aéreo",
+      "Artigo": "261, §  3º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado doloso contra a segurança de outro meio de transporte",
+      "Artigo": "262, caput  *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Atentado culposo contra a segurança ds outro meio de transporte",
+      "Artigo": "262, § 2º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Arremesso de projétil",
+      "Artigo": "264, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Arremesso de projétil resultando lesão corporal",
+      "Artigo": "264,  § ún. *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Epidemia culposa",
+      "Artigo": "267, §  2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Infração de medida  sanitária  preventiva",
+      "Artigo": "268, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão de notificação de doença",
+      "Artigo": "269 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Envenenamento culposo de água potável ou de substância alimentícia ou medicinal ",
+      "Artigo": "270, § 2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Corrupção  ou poluição culposa  de água  potável",
+      "Artigo": "271, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falsificação, corrupção, adulteração ou alteração culposas de substância ou produto alimentício",
+      "Artigo": "272, §  2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fabrico ou fornecimento culposos, para consumo, dessubstancia nociva à saúde",
+      "Artigo": "278, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fornecimento culposo de medicamento em desacordo com receita médica",
+      "Artigo": "280,  § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Exercício ilegal da medicina, arte dentária ou farmacêutica",
+      "Artigo": "282 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Charlatanismo",
+      "Artigo": "283",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Curandeirismo",
+      "Artigo": "284 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Moeda  falsa",
+      "Artigo": "289, § 2º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Incitação ao crime",
+      "Artigo": "286",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Apologia de crime ou criminoso",
+      "Artigo": "287",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Emissão de título ao portador sem permissão legal",
+      "Artigo": "292, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Recebimento ou utilização, como dinheiro, de título ao portador emitido ilegalmente",
+      "Artigo": "292, § ún.",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falsificação de papéis públicos",
+      "Artigo": "293, § 4º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Certidão e atestado ideologicamente falso",
+      "Artigo": "301",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Certidão e atestado materialmente falso",
+      "Artigo": "301, § 1º *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falsidade de atestado  médico",
+      "Artigo": "302",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falsa identidade",
+      "Artigo": "307",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Uso de documento de identidade alheio",
+      "Artigo": "308 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Modificação ou alteração não autorizada de sistema de informações",
+      "Artigo": "313-B *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de sigilo funcional",
+      "Artigo": "325 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Usurpação de função pública",
+      "Artigo": "328 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Resistência",
+      "Artigo": "329 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desobediência",
+      "Artigo": "330",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desacato",
+      "Artigo": "331 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedimento, perturbação ou fraude de concorrência",
+      "Artigo": "335 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Inutilização de edital ou de sinal",
+      "Artigo": "336",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Comunicação falsa de crime ou contravenção",
+      "Artigo": "340",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Autoacusação falsa",
+      "Artigo": "341 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Exercício arbitrário das próprias razões",
+      "Artigo": "345",
+      "Pena(s)": "1",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Retirada, supressão, destruição ou danos em coisa própria na posse regular de terceiro",
+      "Artigo": "346 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fraude processual",
+      "Artigo": "347 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Favorecimento pessoal",
+      "Artigo": "348, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Favorecimento pessoal privilegiado",
+      "Artigo": "348, § 1º",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Favorecimento real",
+      "Artigo": "349",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Exercício arbitrário ou abuso de poder",
+      "Artigo": "350",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Promoção ou facilitação de fuga de pessoa presa ou submetida a medida de segurança",
+      "Artigo": "351, caput *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fuga culposa de pessoa presa ou submetida à medida de segurança",
+      "Artigo": "351, § 4º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Evasão mediante violência contra a pessoa",
+      "Artigo": "352",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Motim de presos",
+      "Artigo": "354 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violência ou fraude em arrecadação judicial",
+      "Artigo": "358",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desobediência à decisão judicial sobre perda ou suspensão de direito",
+      "Artigo": "359 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Contratação desautorizada de operação de crédito",
+      "Artigo": "359-A *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Inscrição de despesas não empenhadas em restos a pagar",
+      "Artigo": "359-B *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não cancelamento de restos a pagar",
+      "Artigo": "359-F *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Fabrico, comércio ou detenção de arma ou munição",
+      "Artigo": "18",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Porte ilegal de arma  (branca)",
+      "Artigo": "19",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Anúncio de meio abortivo",
+      "Artigo": "20",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Vias de fato",
+      "Artigo": "21",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Internação irregular em estabelecimento psiquiátrico",
+      "Artigo": "22",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Indevida custódia de doente mental",
+      "Artigo": "23",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Instrumento de emprego usual na prática de furto",
+      "Artigo": "24",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Posse não justificada de instrumento de emprego usual na prática de furto",
+      "Artigo": "25",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de lugar ou objeto",
+      "Artigo": "26",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Disparar arma de fogo em lugar habitado",
+      "Artigo": "28, § ún.",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desabamento de construção",
+      "Artigo": "29",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omitir informação de estado ruinoso ",
+      "Artigo": "30",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Omitir cautela na guarda ou condução de animais",
+      "Artigo": "31",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falta de habilitação para dirigir veículos",
+      "Artigo": "32",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Direção não licenciada de aeronave",
+      "Artigo": "33",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Direção perigos a de veículo na via pública (de veículo não automotor)",
+      "Artigo": "34",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Abuso na prática de aviação",
+      "Artigo": "35",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não colocação de sinais de perigo",
+      "Artigo": "36, caput",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Destruição ou remoção de sinal de perigo",
+      "Artigo": "36, § ún., \"a\"",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Remoção de sinal de serviço público",
+      "Artigo": "36, § ún. \"b\"",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Arremesso ou colocação perigosa",
+      "Artigo": "37",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Omissão de cautela na colocação ou suspensão perigosa de coisa",
+      "Artigo": "37, § ún.",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Emissão de fumaça, vapor ou gás",
+      "Artigo": "38",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Associação  secreta",
+      "Artigo": "39, caput",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Ceder prédio para reunião de associação secreta",
+      "Artigo": "39, § 1º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Provocação de tumulto Conduta inconveniente",
+      "Artigo": "40",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Falso  alarma",
+      "Artigo": "41",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Perturbação do trabalho ou sossego alheios",
+      "Artigo": "42",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Recusa de moeda de curso legal",
+      "Artigo": "43m",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Imitação de moeda para propaganda",
+      "Artigo": "44",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Simulação da qualidade de funcionário",
+      "Artigo": "45",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Uso ilegítimo de uniforme ou distintivo",
+      "Artigo": "46",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Exercício ilegal de profissão ou atividade",
+      "Artigo": "47",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Exercício ilegal do comércio de coisas antigas e obras de arte",
+      "Artigo": "48",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Matrícula ou escrituração de indústria ou profissão",
+      "Artigo": "49",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Jogo de azar",
+      "Artigo": "50",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Vadiagem",
+      "Artigo": "59",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Importunação ofensiva ao pudor",
+      "Artigo": "61",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Embriaguez",
+      "Artigo": "62",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Bebidas alcoólicas",
+      "Artigo": "63",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Crueldade contra animais",
+      "Artigo": "64",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Perturbação da tranquilidade",
+      "Artigo": "65",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão de comunicação de crime",
+      "Artigo": "66",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Inumação ou exumação de cadáver",
+      "Artigo": "67",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Recusa de dados sobre a própria  identidade",
+      "Artigo": "68",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Deixar de observar as cautelas necessárias para impedir que menor de 18 (dezoito) anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade",
+      "Artigo": "13, caput",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Nas mesmas penas incorrem o proprietário ou diretor responsável de empresa de segurança e transporte de valores que deixarem de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio de arma de fogo, acessório ou munição que estejam sob sua guarda, nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato",
+      "Artigo": "13, PU.",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc",
+      "Multa": false
+    },
+    {
+      "Infração": "Não manutenção de registro das atividades de estabelecimento de saúde da gestante ou não fornecimento de declaração de nascimento do neonato",
+      "Artigo": "228, § ún.",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não identificação correta ou não realização de exames do neonato e da parturiente",
+      "Artigo": "229, § ún.",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Apreensão de menor de 18 anos sem estarem presentes as circunstâncias da flagrância ou sem observância das formalidades legais",
+      "Artigo": "230 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não comunicação, pela autoridade policial, de apreensão de menor de 18 anos à autoridade judiciária e à família do apreendido",
+      "Artigo": "231 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Submissão de criança ou adolescente sob autoridade, guarda ou vigilância a vexame ou a constrangimento",
+      "Artigo": "232 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não ordenação, pela autoridade competente, sem justa causa, de imediata liberação de criança ou adolescente quando ciente da ilegal apreensão",
+      "Artigo": "234 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedimento ou embaraço à ação de autoridade judiciária, membro do Conselho Tutelar ou representante do Ministério Público no exercício de função prevista no ECA",
+      "Artigo": "236 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Venda, fornecimento, ainda que gratuito, ou entrega, a menor de 18 anos, de arma, munição ou explosivo",
+      "Artigo": "242 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Venda, fornecimento, ainda que gratuito, ministração ou entrega, a menor  de 18 anos, de produtos que possam causar dependência física ou psíquica",
+      "Artigo": "243 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão dolosa sobre nocividade ou periculosidade de produto ou serviço, em embalagens ou na publicidade",
+      "Artigo": "63 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão culposa sobre nocividade ou periculosidade de produto ou serviço em embalagens ou na publicidade",
+      "Artigo": "63, § 2º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão dolosa sobre conhecimento acerca da nocividade ou periculosidade do produto, verificada posteriormente ao lançamento no mercado, e deixar de retirá-lo do mercado",
+      "Artigo": "64 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Execução de serviço  de alta periculosidade,  contrariando  determinação de autoridade  competente",
+      "Artigo": "65 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Afirmação falsa, enganosa, ou omissão de informação relevante sobre produtos e serviços ofertados",
+      "Artigo": "66, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Oferta de produtos e serviços com afirmação falsa, enganosa, ou omitindo informação relevante",
+      "Artigo": "66, § 1º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Publicidade enganosa ou abusiva",
+      "Artigo": "67",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Feitura ou promoção de publicidade que sabe ou devia saber ser capaz de induzir o consumidor a comportamento prejudicial ou perigoso à sua saúde",
+      "Artigo": "68 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não organização de dados que dão base à publicidade",
+      "Artigo": "69",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Reparação não autorizada de produtos com peças ou componentes usados",
+      "Artigo": "70",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Constrangimento físico ou moral na cobrança de dívida do c onsumidor",
+      "Artigo": "71",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedimento ou dificuldade no acesso às informações cadastrais do consumidor",
+      "Artigo": "72",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não correção de informação inexata em cadastro de consumidor",
+      "Artigo": "73",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não entrega de termo de garantia ao consumidor",
+      "Artigo": "74",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Lesão corporal culposa na  direção de veículo",
+      "Artigo": "303 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Cond.",
+      "Multa": false
+    },
+    {
+      "Infração": "Omissão de socorro por condutor de veículo em acidente",
+      "Artigo": "304",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Fuga do condutor do veículo do local do acidente",
+      "Artigo": "305",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Violação da suspensão ou proibição de obter habilitação para dirigir veículo",
+      "Artigo": "307,  caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não entrega do documento de habilitação em juízo no prazo, pelo condenado pela violação da suspensão ou proibição de dirigir",
+      "Artigo": "307, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Participação, na direção de veículo, em via pública, em corrida, disputa ou competição automobilística não autorizada pela autoridade competente, com dano potencial à incolumidade pública ou privada",
+      "Artigo": "308 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Direção não habilitada de veículo automotor, gerando perigo",
+      "Artigo": "309",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Entrega de direção de veículo automotor a pessoa não habilitada ou sem condições de conduzir o veículo com segurança",
+      "Artigo": "310",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Tráfego em velocidade incompatível com a segurança do trânsito",
+      "Artigo": "311",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Inovação artificiosa de local de acidente automobilístico",
+      "Artigo": "312",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Caça, perseguição ou apanha de espécime da fauna silvestre sem licença ou em desacordo com a obtida",
+      "Artigo": "29, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Impedimento de procriação da fauna silvestre sem licença ou em desacordo com a obtida",
+      "Artigo": "29, § 1º, I",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Destruição, dano ou modificação de ninho, abrigo ou criadouro natural",
+      "Artigo": "29. § 1º, II",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Venda, exportação, aquisição ou guarda de espécimes da fauna silvestre e produtos derivados, sem licença ou provenientes de criadouros não autorizados",
+      "Artigo": "29, § 1º, III",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Introdução de espécime animal no país sem licença",
+      "Artigo": "31",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Abuso ou maus tratos em animais",
+      "Artigo": "32, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Experiência dolorosa ou cruel com animal vivo",
+      "Artigo": "32, § 1º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Incêndio culposo em mata ou floresta",
+      "Artigo": "41, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Extração mineral não autorizada em florestas públicas ou de preservação",
+      "Artigo": "44",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Corte ou transformação em carvão de madeira de lei, assim classificada por ato do poder público, para fins industriais, energéticos ou para outra exploração, econômica ou não, em desacordo com as determinações legais",
+      "Artigo": "45 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Aquisição ou recebimento de produtos vegetais sem verificação de sua extração mediante licença e desacompanhados de documento",
+      "Artigo": "46, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Venda, depósito, transporte ou guarda de produtos de origem vegetal  sem licença",
+      "Artigo": "46, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Impedimento da regeneração de florestas ou vegetação",
+      "Artigo": "48",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Destruição ou dano em plantas ornamentais de logradouros ou propriedade privada",
+      "Artigo": "49",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Destruição ou dano em floresta ou vegetação  de especial  preservação",
+      "Artigo": "50",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Comercialização ou uso de motosserra sem licença ou registro",
+      "Artigo": "51",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Penetração em Unidade de Conservação portando instrumentos para caça ou exploração florestal, sem licença",
+      "Artigo": "52",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Causação culposa de poluição danosa à saúde humana ou provocadora de mortanda de de animais ou de destruição da flora",
+      "Artigo": "54,§  ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Pesquisa ou extração mineral sem autorização ou em desacordo com a licença",
+      "Artigo": "55, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não recuperação de área de pesquisa ou exploração mineral",
+      "Artigo": "55, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente",
+      "Artigo": "56, § 3º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Estabelecimentos, obras ou serviços potencialmente poluidores, sem licença ou contrariando normas legais e regulamentares",
+      "Artigo": "60",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Destruição, inutilização ou deterioração culposa de bem especialmente protegido",
+      "Artigo": "62, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Construção em solo não edificável, ou seu entorno, sem autorização ou em desacordo com  a concedida",
+      "Artigo": "64",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Conspurcação de edificação ou monumento urbano",
+      "Artigo": "65, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Conspurcação de monumento ou coisa tombada",
+      "Artigo": "65, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não cumprimento culposo de obrigação de relevante interesse ambiental",
+      "Artigo": "68, § ún.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Indução à inscrição fraudulenta de eleitor",
+      "Artigo": "290*",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Negar ou retardar, o juiz, a inscrição de eleitor",
+      "Artigo": "292*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Perturbação ou impedimento de alistamento",
+      "Artigo": "293*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Retenção de título eleitoral contra a vontade do eleitor",
+      "Artigo": "295*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Promoção de desordem prejudicial aos trabalhos eleitorais",
+      "Artigo": "296*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Impedimento ou embaraço ao sufrágio",
+      "Artigo": "297*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Coação de eleitor por servidor público",
+      "Artigo": "300*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Majoração de preços de utilidade e serviços necessários à eleição",
+      "Artigo": "303*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Ocultação, sonegação ou recusa de fornecimento de utilidades, alimento e transporte no dia da eleição ou conceder exclusividade",
+      "Artigo": "304*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Intervenção de autoridade estranha em funcionamento de mesa receptora",
+      "Artigo": "305*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Inobservância da ordem de votação de eleitores",
+      "Artigo": "306*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Prática de irregularidade que anule a votação",
+      "Artigo": "310*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Voto em seção onde não está inscrito o eleitor",
+      "Artigo": "311*",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Violação de sigilo do voto",
+      "Artigo": "312*",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não expedição de boletim de apuração da Junta imediatamente após concluída a apuração",
+      "Artigo": "313*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não recolhimento das cédulas apuradas à urna e lacra-la logo após a apuração",
+      "Artigo": "314*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Contagem de votos de urna impugnada",
+      "Artigo": "318*",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Subscrição de mais de um registro em um ou mais partidos",
+      "Artigo": "319*",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Inscrição simultânea em dois ou mais partidos",
+      "Artigo": "320*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Colheita de assinatura de eleitor em mais de uma ficha de registro de partido",
+      "Artigo": "321*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação de fatos inverídicos sobre partido ou candidato na propaganda",
+      "Artigo": "323*",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Calúnia na propaganda eleitoral",
+      "Artigo": "324*",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Difamação na propaganda eleitoral",
+      "Artigo": "325*",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Injúria na propaganda eleitoral",
+      "Artigo": "326*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Injúria qualificada na propaganda eleitoral",
+      "Artigo": "326 §  2º *",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Inutilização, alteração ou perturbação de propaganda regular",
+      "Artigo": "331*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Impedimento do exercício de propaganda",
+      "Artigo": "332*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de organização comercial para propaganda ou aliciamento de eleitores",
+      "Artigo": "334*",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Propaganda em língua estrangeira",
+      "Artigo": "335*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Participação em atividade partidária estando com os direitos políticos suspensos",
+      "Artigo": "337*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Transmissão  ou divulgação de pronunciamentos de pessoas com direitos políticos suspensos",
+      "Artigo": "337,  § ún.*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não asseguração da prioridade postal para remessa de material de propaganda",
+      "Artigo": "338*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não publicação ou retardamento de decisões, citações ou intimações da Justiça Eleitoral",
+      "Artigo": "341*",
+      "Pena(s)": "1",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não apresentação de denúncia no prazo legal ou não promoção de execução de sentença condenatória pelo Ministério Público",
+      "Artigo": "342*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não representação, pelo juiz, contra o Ministério Público, se a denúncia não for oferecida no prazo legal",
+      "Artigo": "343*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Recusa ou abandono do serviço eleitoral, sem justa causa",
+      "Artigo": "344*",
+      "Pena(s)": "2",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não cumprimento dos deveres impostos pelo Código Eleitoral pela autoridade judicial ou qualquer funcionário da Justiça Eleitoral",
+      "Artigo": "345*",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Utilização do serviço ou instalações de qualquer repartição pública federal, estadual, municipal, fundação, sociedade de economia mista, entidade mantida pelo poder público ou que com ele realiza contrato para beneficiar partido político ou organização de caráter político",
+      "Artigo": "346*",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Recusa de cumprimento ou obediência a diligência, ordenou instruções da Justiça Eleitoral ou embaraçar sua execução",
+      "Artigo": "347*",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Arguição de inelegibilidade ou impugnação de registro de candidato por interferência do poder econômico, desvio ou abuso de poder, de forma temerária ou com manifesta má fé",
+      "Artigo": "LC nº 64/90,  art. 25 *",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Descumprimento, pelo responsável por repartição, órgão ou unidade do serviço público federal, estadual e municipal, do dever de informar à Justiça Eleitoral o número, a espécie e lotação dos veículos e embarcações de sua propr iedade, ou prestar informação inexata a esse  espeito",
+      "Artigo": "Lei 6091/74, art. 11, I  *",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Desatendimento à requisição  de veículos e embarcações particulares necessários ao transporte de eleitores, feita pela Justiça Eleitoral",
+      "Artigo": "Lei 6091/74,  art. 11, II *",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Utilização, em campanha eleitoral, de veículo ou embarcação pertencente à União, Estados, Territórios e Municípios, suas autarquias e sociedades de economia mista",
+      "Artigo": "Lei 6091/74,  art. 11, V  *",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Destruição, supressão ou danificação de relação de candidatos afixada na cabine indevassável",
+      "Artigo": "Lei 7.021/82, art. 5º  *",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação de pesquisa eleitoral fraudulenta",
+      "Artigo": "Lei 9.504/97, art. 33,  § 4º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Retardamento, impedimento ou dificuldade à ação fiscalizadora dos partidos, inclusive em relação à divulgação de pesquisas eleitorais",
+      "Artigo": "Lei 9.504/97,  art. 34,  § 2º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de alto-falantes e amplificadores de som ou promoção de comício ou carreata no dia da eleição",
+      "Artigo": "Lei 9.504/97, art. 39, §  5º, I",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Distribuição de material de propaganda política, inclusive volantes e outros impressos ou prática de aliciamento, coação ou manifestação tendentes a influir a vontade do eleitor, no dia da eleição",
+      "Artigo": "Lei 9.504/97, art. 39, §  5º, II",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de símbolos, frases ou imagens associadas ou semelhantes às empregadas por órgãos de governo, empresa pública ou sociedade de economia mista",
+      "Artigo": "Lei 9.504/97, art. 40",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não proferimento, pela autoridade judiciária, no prazo de 24h, de decisão sobre pedido de direito de resposta  de candidato, partido ou coligação",
+      "Artigo": "Lei 9.504/97, art. 58,  § 7º",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Preenchimento do boletim de urna sem que constem os nomes e números dos candidatos nela votados",
+      "Artigo": "Lei 9.504/97, art. 68, § 2º",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não garantia aos fiscais e delegados dos partidos e coligações do direito de observar diretamente à distância máxima de um  metro da mesa, a abertura da urna, abertura e contagem das cédulas e preenchimento do boletim",
+      "Artigo": "Lei 9.504/97,  art. 87,  § 4º *",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não entrega de cópia do boletim de apuração aos partidos e coligações que o tenham requerido no prazo legal",
+      "Artigo": "Lei 9.504/97,  art. 87,  § 4º *",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Retenção de título eleitoral ou de comprovante de alistamento eleitoral",
+      "Artigo": "Lei 9.504/97,  art. 91, §  ún.*",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado contra a liberdade de locomoção, praticado por autoridade",
+      "Artigo": "3º c/c  6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado contra a inviolabilidade do domicílio, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado ao sigilo da correspondência, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado à liberdade de consciência e descrença, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado contra o livre exercício do culto religioso, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado à liberdade de associação, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado aos direitos e garantias legais asseguradas ao exercício do voto",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado ao direito de reunião, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado à incolumidade  física do indivíduo, praticado por autoridade",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Qualquer atentado aos direitos e garantias legais assegurados ao exercício  profissional",
+      "Artigo": "3º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Ordem ou execução de medida privativa de liberdade individual sem formalidades legais ou com abuso de poder",
+      "Artigo": "4º c/c  6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Submissão de pessoa sob guarda ou custódia a vexame ou constrangimento ilegal",
+      "Artigo": "4º c/c  6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não comunicação imediata ao juiz, pela autoridade, de prisão ou detenção de pessoa",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não ordenação, pelo juiz, de relaxamento de prisão ou detenção ilegal comunicada",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Manutenção de prisão ou detenção de quem se proponha prestar fiança permitida em lei",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Cobrança de carceragem, custas, emolumentos ou qualquer despesa  não prevista  em lei",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Recusa  de recibo  de importância  recebida  a título  de carceragem, custas ou outra despesa",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Ato lesivo da honra ou do patrimônio de pessoa natural ou jurídica, com abuso ou desvio de poder ou sem competência legal",
+      "Artigo": "4º c/c  6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Prolongamento da execução de prisão temporária, pena ou medida de segurança",
+      "Artigo": "4º c/c 6º § 3º",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Publicação ou divulgação de notícias falsas ou fatos verdadeiros truncados ou deturpados",
+      "Artigo": "16",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Ofensa à moral pública e aos bons costumes através da imprensa",
+      "Artigo": "17",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação de anúncio, aviso ou resultado de loteria não autorizada ou jogo  proibido",
+      "Artigo": "17, § ún.",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Incitação à prática de infração às leis penais através da imprensa",
+      "Artigo": "19, caput.",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Apologia de fato criminoso ou de autor de crime através da imprensa",
+      "Artigo": "19, § 2º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Difamação através da imprensa",
+      "Artigo": "21",
+      "Pena(s)": "18",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Injúria através da imprensa",
+      "Artigo": "22",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Declaração falsa ou omissão de declaração sobre rendas, bens ou fatos ou emprego de outra fraude para eximir-se total ou parcialmente de pagamento de tributo",
+      "Artigo": "2º, inciso I",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não recolhimento, no prazo legal, de valor de tributo ou contribuiçãosocial, descontado ou cobrado para recolhimento aos cofres públicos",
+      "Artigo": "2º, inciso II",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Exigência, pagamento ou recebimento de qualquer percentagem sobre a parcela dedutível ou deduzida de imposto ou contribuição como incentivo fiscal",
+      "Artigo": "2º, inciso  III",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Não aplicação ou aplicação em desacordo com o estatuído, de incentivo fiscal ou parcela de imposto liberada por órgão de desenvolvimento",
+      "Artigo": "2º, inciso  IV",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Utilização ou divulgação de programa de processamento de dados que permita a posse de informação contábil diversa daquela fornecida à Fazenda Pública",
+      "Artigo": "2º, inciso  V",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Infração Artigo Pena(s) Ação Penal  Patrocínio de interesse privado perante a Administração dando causa a licitação ou contrato invalidados pelo Poder Judiciário",
+      "Artigo": "91",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Impedimento, perturbação ou fraude à realização de ato de processo licitatório",
+      "Artigo": "93",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Admissão à licitação ou celebração de contrato com empresa ou profissional inidôneos",
+      "Artigo": "97",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Licitação ou contratação com a Administração pelo declarado inidôneo",
+      "Artigo": "97, § ún.",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Óbice, impedimento ou dificuldade injusta à inscrição de interessado",
+      "Artigo": "98",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Fabricação de produto que seja objeto de patente de invenção ou modelo de utilidade, sem autorização do titular",
+      "Artigo": "183, inciso  I",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de meio ou processo que seja objeto de patente de invenção, sem autorização do titular",
+      "Artigo": "183,  inciso  II",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Exportação, venda, exposição ou oferecimento à venda, estoque, ocultação ou recebimento de produto fabricado com violação de patente de invenção ou modelo de utilidade ou obtido por meio ou processo patenteado",
+      "Artigo": "184,  inciso  I",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Importação de produto que seja objeto de patente de invenção ou modelo de utilidade ou obtido por processo patenteado no país, não colocado no mercado externo pelo titular da patente ou com seu consentimento",
+      "Artigo": "184,  inciso  II",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Fornecimento de componente de um produto patenteado ou material ou equipamento para realizar processo patenteado visando à exploração do objeto da patente",
+      "Artigo": "185",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Fabrico, sem autorização, de produto que incorpore desenho industrial registrado ou imitação que induza a erro ou confusão",
+      "Artigo": "187",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Exportação, venda, exposição ou oferecimento à venda, estoque, ocultação ou recebimento de objeto que incorpore ilicitamente desenho industrial registrado ou imitação que induza a erro ou confusão",
+      "Artigo": "188,  inciso  I",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Importação de produto que incorpore desenho industrial registrado no país, ou imitação que induza a erro ou confusão e não tenha sido colocado no mercado externo pelo titular",
+      "Artigo": "188,  inciso  II",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Reprodução total ou parcial, sem autorização, de marca registrada ou imitação de marca registrada que induza confusão",
+      "Artigo": "189, inciso  I",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Alteração de marca registrada alheia já aposta em produto colocado no mercado",
+      "Artigo": "189, inciso  II",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Importação, exportação, venda, oferecimento ou exposição à venda, ocultação ou estocagem de produto assinalado com reprodução ou imitação ilícita, total ou parcial, de marca alheia",
+      "Artigo": "190, inciso I",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Importação, exportação, venda, oferecimento ou exposição à venda, ocultação ou estocagem de produto de indústria ou comércio próprios, contido em vasilhame ou embalagem que contenha  marca legítima alheia",
+      "Artigo": "190. inciso II",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Reprodução ou imitação de armas, brasões ou distintivos oficiais nacionais, estrangeiros ou internacionais, sem autorização, total ou parcial, em marca, título de estabelecimento, nome comercial, insígnia ou sinal de propaganda, ou usá-las com fins econômicos",
+      "Artigo": "191, caput.",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Venda, exposição ou  oferecimento À venda de produtos assinalados com as marcas acima",
+      "Artigo": "191, § ún.",
+      "Pena(s)": "3",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Fabricação, importação, exportação, venda, exposição, oferecimento à venda ou estocagem de produto com  falsa indicação geográfica",
+      "Artigo": "192",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso, em produto, de recipiente, invólucro, cinta, rótulo, circular, cartas ou outro meio de divulgação ou propaganda, determos retificativos tais como “tipo” , \"semelhante”, “idêntico”, sem ressalva quanto à procedência",
+      "Artigo": "193",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de marca, nome comercial, título de estabelecimento, insígnia, expressão ou sinal de propaganda ou qualquer forma que indique procedência não verdadeira, ou venda ou exposição à venda de produto  com  esses sinais",
+      "Artigo": "194",
+      "Pena(s)": "3",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Publicação de falsa afirmação em detrimento de concorrente, visando a obter vantagem",
+      "Artigo": "195,  inciso  I",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Prestação ou divulgação de falsa informação acerca de concorrente visando a obter vantagem",
+      "Artigo": "195, inciso  II",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Emprego de meio fraudulento para desviar clientela de outrem em proveito próprio  ou alheio",
+      "Artigo": "195,  inciso  III",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso de expressão ou sinal de propaganda alheios ou imitação destes criando confusão entre produtos ou estabelecimentos",
+      "Artigo": "195, inciso IV",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Uso indevido de nome comercial, título de estabelecimento ou insígnia alheios ou venda, exposição, oferecimento ou estocagem de produto com tais  referências",
+      "Artigo": "195, inciso V",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Substituição pelo próprio nome ou razão social, em produto de outrem, o nome ou razão social deste, sem consentimento",
+      "Artigo": "195, inciso VI",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Atribuição a si de recompensa ou distinção que não obteve, como meio de propaganda",
+      "Artigo": "195,inciso VII",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Venda, exposição ou oferecimento de produto adulterado ou falsificado, em recipiente ou invólucro de outrem, ou utilização deste para negociar com produto da mesma espécie",
+      "Artigo": "195, inciso VIII",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Dação ou promessa de dinheiro ou utilidade a empregado de concorrente para que, faltando ao dever, proporcione vantagem indevida",
+      "Artigo": "195, inciso IX",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Recebimento de dinheiro ou utilidade ou aceitação de promessa de recompensa pelo empregado para, faltando ao dever, proporcionar vantagem a concorrente do empregador",
+      "Artigo": "195, inciso  X",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação, exploração, ou utilização desautorizada de conhecimentos, informações ou dados confidenciais usados na indústria, comércio ou serviço cujo acesso tenha-se dado mediante relação contratual ou empregatícia",
+      "Artigo": "195, inciso XI",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação, exploração ou utilização desautorizada de conhecimentos ou informações referidas acima, obtidos por meios ilícitos ou mediante fraude",
+      "Artigo": "195,  inciso  XII",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Venda, exposição ou oferecimento de produto declarando-o objeto de patente ou de desenho industrial registrado, não o sendo, ou menção, em anúncio ou papel comercial, como patenteado ou registrado,  sem o ser",
+      "Artigo": "195, inciso XIII",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Divulgação, exploração ou uso desautorizado de resultados de testes ou dados não divulgados, elaborados com esforço e apresentados a entidades governamentais como condição para aprovação da comercialização de produtos",
+      "Artigo": "195,incis o XIV",
+      "Pena(s)": "12",
+      "Ação Penal": "Privada",
+      "Multa": true
+    },
+    {
+      "Infração": "Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem",
+      "Artigo": "Art. 33. §  3°",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar",
+      "Artigo": "Art. 38°",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Quem  adquirir,  guardar,  tiver  em depósito,  transportar  ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo  com determinação legal  ou regulamentar ",
+      "Artigo": "28°",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Recolhimento, transporte, guarda ou distribuição departes do corpo humano obtidos em desacordo com as disposições legais",
+      "Artigo": "17",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Realização de transplante ou enxerto sem consentimento expresso do receptor cientificado da excepcionalidade e riscos do procedimento ou de seus pais ou responsáveis legais",
+      "Artigo": "18",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Não recomposição de cadáver, devolvendo-lhe aspecto condigno, para sepultamento, não entrega ou retardamento da entrega aos familiares ou interessados",
+      "Artigo": "19",
+      "Pena(s)": "24",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Publicação de anúncio ou apelo público cuja veiculação é proibida em lei relativamente à publicidade de estabelecimentos autorizados, doação de órgãos ou partes do corpo determinada pessoa ou arrecadação de fundos  para  transplante  ou enxerto",
+      "Artigo": "20",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Introdução de loteria estrangeira no país ou de loteria estadual de um Estado em outro",
+      "Artigo": "46",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Posse ou distribuição de bilhetes de loteria estrangeira",
+      "Artigo": "47",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Posse ou distribuição de bilhetes de loteria estadual, fora do Estado respectivo",
+      "Artigo": "48",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Posse e exibição de lista de sorteios de loteria estrangeira ou de outro Estado",
+      "Artigo": "49",
+      "Pena(s)": "4",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Pagamento de prêmio de loteria estrangeira ou de outro Estado, sem circulação legal",
+      "Artigo": "50",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impressão de bilhetes, listas ou cartazes de loteria sem circulação local legal",
+      "Artigo": "51",
+      "Pena(s)": "6",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Distribuição ou transporte de listas ou avisos de loteria sem circulação local legal",
+      "Artigo": "52",
+      "Pena(s)": "4",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Transmissão de resultado de extração de loteria não autorizada",
+      "Artigo": "56",
+      "Pena(s)": "0",
+      "Ação Penal": "Públ.  Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Jogo do bicho",
+      "Artigo": "58",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Violação de direito de autor de programa de computador",
+      "Artigo": "12",
+      "Pena(s)": "24",
+      "Ação Penal": "Priv./P.Inc.",
+      "Multa": true
+    },
+    {
+      "Infração": "Deixar de prestar assistência ao idoso, quando possível fazê -lo sem risco pessoal, em situação de iminente perigo, ou recusar, retardar ou dificultar sua assistência à saúde, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública",
+      "Artigo": "97, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Deixar de cumprir, retardar ou frustrar, sem justo motivo, a execução de ordem judicial expedida nas ações em que for parte ou interveniente o idoso",
+      "Artigo": "101",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Desdenhar, humilhar, menosprezar ou discriminar pessoa idosa, por qualquer motivo",
+      "Artigo": "96, § 1º",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Discriminar pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, aos meios de transporte, ao direito de contratar ou por qualquer outro meio ou instrumento necessário ao exercício da cidadania, por motivo de idade",
+      "Artigo": "96, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Expor a perigo a integridade e a saúde, física  ou psíquica, do idoso, submetendo-o a condições desumanas ou degradantes ou privando-o de alimentos e cuidados indispensáveis, quando obrigado a fazê-lo, ou sujeitando-o a trabalho excessivo ou inadequado",
+      "Artigo": "99, caput",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Impedir ou embaraçar ato do representante do Ministério Público ou de qualquer outro agente fiscalizador",
+      "Artigo": "109",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Negar o acolhimento ou a permanência de idoso, como abrigado, por recusa deste em outorgar procuração à entidade de atendimento",
+      "Artigo": "103",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Obstar o acesso de alguém a qualquer cargo público por motivo de idade Negar a alguém, por motivo de idade, emprego ou trabalho Recusar, retardar ou dificultar atendimento ou deixar de prestar assistência à saúde, sem justa causa, a pessoa idosa Deixar de cumprir, retardar ou frustrar, sem justo motivo, a execução de ordem judicial expedida na ação civil que alude esta Lei nº Recusar, retardar ou omitir dados técnicos indispensáveis à propositura da ação civil objeto desta Lei nº, quando requisitados pelo Ministério Público",
+      "Artigo": "100",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    },
+    {
+      "Infração": "Reter o cartão magnético de conta bancária relativa a benefícios, proventos ou pensãodo idoso, bem como qualquer outro documento com objetivo de assegurar recebimento ou ressarcimento de dívida",
+      "Artigo": "104",
+      "Pena(s)": "12",
+      "Ação Penal": "Públ. Inc.",
+      "Multa": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "involvedType": [
+        {
+            "id": 1,
+            "name": "Condutor/Motorista"
+        },
+        {
+            "id": 2,
+            "name": "Pedestre"
+        },
+        {
+            "id": 3,
+            "name": "Passageiro"
+        },
+        {
+            "id": 4,
+            "name": "Vítima"
+        }
+    ]
+}
