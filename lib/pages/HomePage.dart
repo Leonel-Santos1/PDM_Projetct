@@ -15,7 +15,6 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 0, 31, 63),
         iconTheme: IconThemeData(color: Colors.white),
-
         title: Text(
           "Policia Militar",
           style: GoogleFonts.poppins(
@@ -47,9 +46,7 @@ class HomePage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const SizedBox(height: 40),
-
                 Image.asset("assets/images/policia.png", width: 200),
-
                 const SizedBox(height: 90),
 
                 CardButton(
@@ -79,6 +76,7 @@ class HomePage extends StatelessWidget {
                         ],
                         onSubmit: (data) {
                           print("Dados: $data");
+                          Navigator.pushNamed(context, AppRoutes.bopm);
                           // data["local"] → String?
                           // data["bo"] → String
                           // data["despacho"] → String (pode estar vazio)

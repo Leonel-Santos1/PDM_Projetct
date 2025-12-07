@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:pdm_pm/LoginPage.dart';
 import 'package:pdm_pm/pages/HomePage.dart';
-import 'package:pdm_pm/pages/BopmPage.dart';
+import 'package:pdm_pm/pages/BOPage.dart';
+
 
 class AppRoutes {
   static const home = "/home";
@@ -12,7 +13,7 @@ class AppRoutes {
   static Map<String, WidgetBuilder> routes = {
     home: (context) => const HomePage(),
     login: (context) => const LoginPage(),
-    bopm: (context) => const  BopmPage()
+    bopm: (context) => const BOPage(),
   };
 }
 
