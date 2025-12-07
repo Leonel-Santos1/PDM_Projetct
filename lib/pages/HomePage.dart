@@ -61,12 +61,29 @@ class HomePage extends StatelessWidget {
                     showModalBottomSheet(
                       context: context,
                       isScrollControlled: true,
-                      shape: const RoundedRectangleBorder(
-                        borderRadius: BorderRadius.vertical(
-                          top: Radius.circular(25),
-                        ),
+                      backgroundColor: Colors.white,
+                      builder: (_) => ReusableFormBottomSheet(
+                        title: "Criando BO-PM",
+                        subtitle: "Preencha as informações para criar um novo BO-PM",
+                        fixedInfoLabel: "UPM: 2º BPM",
+                        fields: [
+                          FormFieldConfig.dropdown(
+                            key: "local",
+                            label: "Local",
+                            hint: "Local: Selecione",
+                            options: ["Caxias", "Aldeias Altas", "São João do Sóter"],
+                            required: true,
+                          ),
+                          FormFieldConfig.text(key: "bo", label: "Nº BO SIGMA", required: true),
+                          FormFieldConfig.text(key: "despacho", label: "Nº DESPACHO", required: false), // opcional
+                        ],
+                        onSubmit: (data) {
+                          print("Dados: $data");
+                          // data["local"] → String?
+                          // data["bo"] → String
+                          // data["despacho"] → String (pode estar vazio)
+                        },
                       ),
-                      builder: (context) => const Custombottomsheet(),
                     );
                   },
                 ),
@@ -78,7 +95,34 @@ class HomePage extends StatelessWidget {
                   backgroundColor: Color.fromARGB(255, 8, 82, 158),
                   subtitle: "Termo circustanciado de ocorrências",
                   icon: Icons.description_outlined,
-                  onPressed: () {},
+                  onPressed: () {
+                    showModalBottomSheet(
+                      context: context,
+                      isScrollControlled: true,
+                      backgroundColor: Colors.white,
+                      builder: (_) => ReusableFormBottomSheet(
+                        title: "Criando TCO",
+                        subtitle: "Preencha as informações para criar um novo TCO",
+                        fixedInfoLabel: "UPM: 2º BPM",
+                        fields: [
+                          FormFieldConfig.dropdown(
+                            key: "local",
+                            label: "Local",
+                            hint: "Local: Selecione",
+                            options: ["Caxias", "Aldeias Altas", "São João do Sóter"],
+                            required: true,
+                          ),
+                          FormFieldConfig.text(key: "ciops", label: "Nº CIOPS/COPM", required: false), // opcional
+                        ],
+                        onSubmit: (data) {
+                          print("Dados: $data");
+                          // data["local"] → String?
+                          // data["bo"] → String
+                          // data["despacho"] → String (pode estar vazio)
+                        },
+                      ),
+                    );
+                  },
                 ),
 
                 const SizedBox(height: 20),
