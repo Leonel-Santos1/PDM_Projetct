@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:pdm_pm/routes/routes.dart';
 import 'package:pdm_pm/widgets/AppButton.dart';
 import 'package:pdm_pm/widgets/AppTextInput.dart';
 
@@ -151,14 +152,28 @@ class LoginPage extends StatelessWidget {
                           ),
                         ),
                       ),
-
-                      ReusableButton(
-                        text: "Entrar",
-                        width: double.infinity,
-                        onPressed: () {},
-                        color: Color.fromARGB(255, 0, 51, 153),
+                      ElevatedButton.icon(
+                        onPressed: () {
+                          Navigator.pushNamed(context, AppRoutes.home);
+                        },
+                        // icon: const Icon(Icons.shield, size: 26),
+                        iconAlignment: IconAlignment.end,
+                        label: Text(
+                          'Entrar',
+                          style: GoogleFonts.poppins(
+                            fontWeight: FontWeight.w600,
+                            fontSize: 16,
+                          ),
+                        ),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Color.fromARGB(255, 0, 51, 153),
+                          foregroundColor: Colors.white,
+                          minimumSize: const Size.fromHeight(50),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(50),
+                          ),
+                        ),
                       ),
-
                       Padding(
                         padding: const EdgeInsets.only(bottom: 12, top: 8),
                         child: Center(

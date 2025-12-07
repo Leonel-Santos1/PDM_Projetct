@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pdm_pm/LoginPage.dart';
+import 'package:pdm_pm/routes/routes.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: LoginPage(), // <<< chama sua tela aqui
+      debugShowCheckedModeBanner: false,
+      initialRoute: AppRoutes.login,
+      routes: AppRoutes.routes,
     );
   }
 }

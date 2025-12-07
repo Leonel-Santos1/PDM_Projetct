@@ -1,73 +1,73 @@
 import 'package:flutter/material.dart';
 
-class ReusableButton extends StatelessWidget {
-  final String text;
-  final VoidCallback? onPressed;
-  final Color color;
+class CardButton extends StatelessWidget {
+  final String title;
+  final String subtitle;
+  final IconData icon;
+  final Color backgroundColor;
   final Color textColor;
   final double borderRadius;
-  final EdgeInsetsGeometry padding;
-  final EdgeInsetsGeometry margin;
-  final Widget? icon;
-  final bool isLoading;
-  final double? width;
-  final double? height;
+  final VoidCallback? onPressed;
+  final double height;
 
-  const ReusableButton({
+  const CardButton({
     super.key,
-    required this.text,
-    this.onPressed,
-    this.color = Colors.blue,
+    required this.title,
+    required this.subtitle,
+    required this.icon,
+    this.backgroundColor = const Color(0xFF0A57A3),
     this.textColor = Colors.white,
-    this.borderRadius = 12,
-    this.padding = const EdgeInsets.symmetric(vertical: 14, horizontal: 20),
-    this.margin = const EdgeInsets.all(0),
-    this.icon,
-    this.isLoading = false,
-    this.width,
-    this.height,
+    this.borderRadius = 16,
+    this.height = 96,
+    this.onPressed,
   });
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      margin: margin,
-      width: width,
+    return SizedBox(
+      width: double.infinity,
       height: height,
       child: ElevatedButton(
-        onPressed: onPressed, // Agora nunca fica cinza a menos que você mande null
+        onPressed: onPressed,
         style: ElevatedButton.styleFrom(
-          backgroundColor: color,
-          foregroundColor: textColor,
+          backgroundColor: backgroundColor,
+          padding: const EdgeInsets.symmetric(horizontal: 20),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(borderRadius),
           ),
-          padding: padding,
+          elevation: 2,
         ),
-        child: isLoading
-            ? const SizedBox(
-          width: 22,
-          height: 22,
-          child: CircularProgressIndicator(
-            strokeWidth: 2,
-            color: Colors.white,
-          ),
-        )
-            : Row(
-          mainAxisSize: MainAxisSize.min,
-          mainAxisAlignment: MainAxisAlignment.center,
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            if (icon != null) ...[
-              icon!,
-              const SizedBox(width: 8),
-            ],
-            Text(
-              text,
-              style: TextStyle(
-                color: textColor,
-                fontSize: 16,
-                fontWeight: FontWeight.w600,
-              ),
+            // Texto (título + subtítulo)
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Text(
+                  title,
+                  style: TextStyle(
+                    color: textColor,
+                    fontSize: 26,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                Text(
+                  subtitle,
+                  style: TextStyle(
+                    color: textColor.withOpacity(0.8),
+                    fontSize: 14,
+                  ),
+                ),
+              ],
+            ),
+
+            // Ícone à direita
+            Icon(
+              icon,
+              size: 46,
+              color: textColor,
             ),
           ],
         ),
