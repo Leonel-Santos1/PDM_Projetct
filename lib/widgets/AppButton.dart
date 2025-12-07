@@ -64,11 +64,7 @@ class CardButton extends StatelessWidget {
             ),
 
             // Ícone à direita
-            Icon(
-              icon,
-              size: 46,
-              color: textColor,
-            ),
+            Icon(icon, size: 36, color: textColor),
           ],
         ),
       ),

@@ -40,73 +40,62 @@ class HomePage extends StatelessWidget {
         ],
       ),
       body: SafeArea(
-        child: (Center(
-          child: Column(
-            children: [
-              const SizedBox(height: 40),
+        child: SingleChildScrollView(
+          child: Padding(
+            padding: const EdgeInsets.all(16),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                const SizedBox(height: 40),
 
-              Image.asset("assets/images/policia.png", width: 200),
+                Image.asset("assets/images/policia.png", width: 200),
 
-              const SizedBox(height: 130),
+                const SizedBox(height: 90),
 
-              Container(
-                padding: EdgeInsets.all(16),
-
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    CardButton(
-                      title: "BO - PM",
-                      backgroundColor: Color.fromARGB(255, 8, 82, 158),
-                      subtitle: "Boletim de ocorrências da polícia militar",
-                      icon: Icons.description_outlined,
-                      onPressed: () {
-                        showModalBottomSheet(
-                          context: context,
-                          isScrollControlled: true,      // permite height maior
-                          backgroundColor: Colors.white,
-                          shape: const RoundedRectangleBorder(
-                            borderRadius: BorderRadius.vertical(
-                              top: Radius.circular(25),
-                            ),
-                          ),
-                          builder: (context) => const Custombottomsheet(),
-                        );
-
-                      },
-                    ),
-
-                    const SizedBox(height: 20,),
-
-                    CardButton(
-                      title: "TCO",
-                      backgroundColor: Color.fromARGB(255, 8, 82, 158),
-                      subtitle: "Termo circustanciado de ocorrências",
-                      icon: Icons.description_outlined,
-                      onPressed: () {
-                        Navigator.pushNamed(context, "/boPm");
-                      },
-                    ),
-
-                    const SizedBox(height: 20,),
-
-                    CardButton(
-                      title: "Biblioteca",
-                      backgroundColor: Color.fromARGB(255, 8, 82, 158),
-                      subtitle: "Documentos, manuais e busca de infração",
-                      icon: Icons.menu_book_outlined,
-                      onPressed: () {
-                        Navigator.pushNamed(context, "/boPm");
-                      },
-                    ),
-
-                  ],
+                CardButton(
+                  title: "BO - PM",
+                  backgroundColor: Color.fromARGB(255, 8, 82, 158),
+                  subtitle: "Boletim de ocorrências da polícia militar",
+                  icon: Icons.description_outlined,
+                  onPressed: () {
+                    showModalBottomSheet(
+                      context: context,
+                      isScrollControlled: true,
+                      shape: const RoundedRectangleBorder(
+                        borderRadius: BorderRadius.vertical(
+                          top: Radius.circular(25),
+                        ),
+                      ),
+                      builder: (context) => const Custombottomsheet(),
+                    );
+                  },
                 ),
-              )
-            ],
+
+                const SizedBox(height: 20),
+
+                CardButton(
+                  title: "TCO",
+                  backgroundColor: Color.fromARGB(255, 8, 82, 158),
+                  subtitle: "Termo circustanciado de ocorrências",
+                  icon: Icons.description_outlined,
+                  onPressed: () {},
+                ),
+
+                const SizedBox(height: 20),
+
+                CardButton(
+                  title: "Biblioteca",
+                  backgroundColor: Color.fromARGB(255, 8, 82, 158),
+                  subtitle: "Documentos, manuais e busca de infração",
+                  icon: Icons.menu_book_outlined,
+                  onPressed: () {},
+                ),
+
+                const SizedBox(height: 20),
+              ],
+            ),
           ),
-        )),
+        ),
       ),
     );
   }
