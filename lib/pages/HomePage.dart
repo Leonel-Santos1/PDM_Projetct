@@ -74,10 +74,15 @@ class HomePage extends StatelessWidget {
                           FormFieldConfig.text(key: "despacho", label: "Nº DESPACHO", required: false), // opcional
                         ],
                         onSubmit: (data) {
-                          print("Dados: $data");
-                          // data["local"] → String?
-                          // data["bo"] → String
-                          // data["despacho"] → String (pode estar vazio)
+                          // 1. Fecha o bottom sheet
+                          Navigator.pop(context);
+
+                          // 2. Vai para a tela Home (exatamente como você já faz em outras partes)
+                          Navigator.pushNamed(context, AppRoutes.bopm);
+
+                          // OPCIONAL: se quiser usar os dados depois (ex: salvar no banco, mostrar toast etc)
+                          print("BO criado: ${data['bo']}, Local: ${data['local']}, Despacho: ${data['despacho']}");
+                          // Exemplo: ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("BO criado com sucesso!")));
                         },
                       ),
                     );
