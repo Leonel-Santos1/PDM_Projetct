@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pdm_pm/LoginPage.dart';
+import 'package:pdm_pm/pages/LoginPage.dart';
 import 'package:pdm_pm/pages/HomePage.dart';
 import 'package:pdm_pm/pages/BOPage.dart';
 

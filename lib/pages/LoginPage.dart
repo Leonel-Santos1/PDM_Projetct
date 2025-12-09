@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pdm_pm/routes/routes.dart';
-import 'package:pdm_pm/widgets/AppButton.dart';
+import 'package:pdm_pm/widgets/app/AppButton.dart';
 import 'package:pdm_pm/widgets/AppTextInput.dart';
 
 class LoginPage extends StatelessWidget {
