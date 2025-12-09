@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:pdm_pm/widgets/app/AppBar.dart';
-import 'package:pdm_pm/widgets/app/AppBarForm.dart';
-import 'package:pdm_pm/widgets/app_color.dart';
+import 'package:pdm_pm/widgets/appbar/AppBarCardBO.dart';
+import 'package:pdm_pm/widgets/appbar/AppBarFormBO.dart';
+import 'package:pdm_pm/widgets/app/app_color.dart';
+import 'package:pdm_pm/widgets/text/AppText.dart';
 
 class BOPage extends StatefulWidget {
   const BOPage({super.key});
@@ -55,12 +56,10 @@ class _BOPageState extends State<BOPage> {
                       });
                    },
                    backgroundColor: Color(0xFF08529E),
-                   label: Text(
-                       'Criar',
-                       style: TextStyle(
-                         fontFamily: 'Plus Jakarta Sans',
-                         color: AppColor.white,
-                         fontSize: 15,)
+                   label: AppText.text(
+                     text: 'Criar',
+                     textColor: AppColor.white,
+                     textFontSize: 15
                    ),
                    icon: Icon(Icons.add, color: AppColor.white,),
                  ),

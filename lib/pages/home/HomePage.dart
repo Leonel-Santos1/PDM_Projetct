@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pdm_pm/routes/routes.dart';
-import 'package:pdm_pm/widgets/app/AppButton.dart';
+import 'package:pdm_pm/widgets/button/AppButton.dart';
 import 'package:pdm_pm/widgets/CustomBottomSheet.dart';
-import 'package:pdm_pm/widgets/app_color.dart';
+import 'package:pdm_pm/widgets/app/app_color.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -117,6 +117,7 @@ class HomePage extends StatelessWidget {
                         ],
                         onSubmit: (data) {
                           print("Dados: $data");
+                          Navigator.pushNamed(context, AppRoutes.bopm);
                           // data["local"] → String?
                           // data["bo"] → String
                           // data["despacho"] → String (pode estar vazio)

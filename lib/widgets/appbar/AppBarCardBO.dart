@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pdm_pm/routes/routes.dart';
-import 'package:pdm_pm/widgets/app/AppBarForm.dart';
-import 'package:pdm_pm/widgets/app_color.dart';
+import 'package:pdm_pm/widgets/appbar/AppBarFormBO.dart';
+import 'package:pdm_pm/widgets/app/app_color.dart';
 
 class Appbarpm extends StatelessWidget implements PreferredSizeWidget{
   final String pmText;
