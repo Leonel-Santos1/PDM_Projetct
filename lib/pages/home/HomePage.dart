@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pdm_pm/routes/routes.dart';
+import 'package:pdm_pm/widgets/appbar/AppBarCardBO.dart';
 import 'package:pdm_pm/widgets/button/AppButton.dart';
 import 'package:pdm_pm/widgets/CustomBottomSheet.dart';
 import 'package:pdm_pm/widgets/app/app_color.dart';
@@ -11,33 +12,44 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomInset: true, // 🔥 IMPORTANTE
-      appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 0, 31, 63),
-        iconTheme: IconThemeData(color: Colors.white),
-        title: Text(
-          "Policia Militar",
-          style: GoogleFonts.poppins(
-            color: Colors.white,
-            fontSize: 20,
-            fontWeight: FontWeight.w600,
-            shadows: [
-              Shadow(
-                offset: const Offset(0, 1),
-                blurRadius: 3.0,
-                color: Colors.black.withOpacity(0.3),
-              ),
-            ],
-          ),
-        ),
+      resizeToAvoidBottomInset: true,
 
-        actions: [
-          Padding(
-            padding: const EdgeInsets.only(right: 1),
-            child: IconButton(icon: Icon(Icons.person), onPressed: () {}),
-          ),
-        ],
+      appBar: Appbarpm(
+        pmText: "Policia Militar",
+        text: "",
+        rightIcon: Icons.person,
+        colorText: Colors.white,
+        showTagEnabled: false,
+        fontSize: 20,
+
       ),
+
+      // AppBar(
+      //   backgroundColor: Color.fromARGB(255, 0, 31, 63),
+      //   iconTheme: IconThemeData(color: Colors.white),
+      //   title: Text(
+      //     "Policia Militar",
+      //     style: GoogleFonts.poppins(
+      //       color: Colors.white,
+      //       fontSize: 20,
+      //       fontWeight: FontWeight.w600,
+      //       shadows: [
+      //         Shadow(
+      //           offset: const Offset(0, 1),
+      //           blurRadius: 3.0,
+      //           color: Colors.black.withOpacity(0.3),
+      //         ),
+      //       ],
+      //     ),
+      //   ),
+      //
+      //   actions: [
+      //     Padding(
+      //       padding: const EdgeInsets.only(right: 1),
+      //       child: IconButton(icon: Icon(Icons.person), onPressed: () {}),
+      //     ),
+      //   ],
+      // ),
       body: SafeArea(
         child: SingleChildScrollView(
           child: Padding(
@@ -60,18 +72,31 @@ class HomePage extends StatelessWidget {
                       backgroundColor: Colors.white,
                       builder: (_) => ReusableFormBottomSheet(
                         title: "Criando BO-PM",
-                        subtitle: "Preencha as informações para criar um novo BO-PM",
+                        subtitle:
+                            "Preencha as informações para criar um novo BO-PM",
                         fixedInfoLabel: "UPM: 2º BPM",
                         fields: [
                           FormFieldConfig.dropdown(
                             key: "local",
                             label: "Local",
                             hint: "Local: Selecione",
-                            options: ["Caxias", "Aldeias Altas", "São João do Sóter"],
+                            options: [
+                              "Caxias",
+                              "Aldeias Altas",
+                              "São João do Sóter",
+                            ],
                             required: true,
                           ),
-                          FormFieldConfig.text(key: "bo", label: "Nº BO SIGMA", required: true),
-                          FormFieldConfig.text(key: "despacho", label: "Nº DESPACHO", required: false), // opcional
+                          FormFieldConfig.text(
+                            key: "bo",
+                            label: "Nº BO SIGMA",
+                            required: true,
+                          ),
+                          FormFieldConfig.text(
+                            key: "despacho",
+                            label: "Nº DESPACHO",
+                            required: false,
+                          ), // opcional
                         ],
                         onSubmit: (data) {
                           // 1. Fecha o bottom sheet
@@ -81,7 +106,9 @@ class HomePage extends StatelessWidget {
                           Navigator.pushNamed(context, AppRoutes.bopm);
 
                           // OPCIONAL: se quiser usar os dados depois (ex: salvar no banco, mostrar toast etc)
-                          print("BO criado: ${data['bo']}, Local: ${data['local']}, Despacho: ${data['despacho']}");
+                          print(
+                            "BO criado: ${data['bo']}, Local: ${data['local']}, Despacho: ${data['despacho']}",
+                          );
                           // Exemplo: ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("BO criado com sucesso!")));
                         },
                       ),
@@ -103,17 +130,26 @@ class HomePage extends StatelessWidget {
                       backgroundColor: Colors.white,
                       builder: (_) => ReusableFormBottomSheet(
                         title: "Criando TCO",
-                        subtitle: "Preencha as informações para criar um novo TCO",
+                        subtitle:
+                            "Preencha as informações para criar um novo TCO",
                         fixedInfoLabel: "UPM: 2º BPM",
                         fields: [
                           FormFieldConfig.dropdown(
                             key: "local",
                             label: "Local",
                             hint: "Local: Selecione",
-                            options: ["Caxias", "Aldeias Altas", "São João do Sóter"],
+                            options: [
+                              "Caxias",
+                              "Aldeias Altas",
+                              "São João do Sóter",
+                            ],
                             required: true,
                           ),
-                          FormFieldConfig.text(key: "ciops", label: "Nº CIOPS/COPM", required: false), // opcional
+                          FormFieldConfig.text(
+                            key: "ciops",
+                            label: "Nº CIOPS/COPM",
+                            required: false,
+                          ), // opcional
                         ],
                         onSubmit: (data) {
                           print("Dados: $data");
@@ -134,7 +170,9 @@ class HomePage extends StatelessWidget {
                   backgroundColor: Color.fromARGB(255, 8, 82, 158),
                   subtitle: "Documentos, manuais e busca de infração",
                   icon: Icons.menu_book_outlined,
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.pushNamed(context, AppRoutes.bib);
+                  },
                 ),
 
                 const SizedBox(height: 20),

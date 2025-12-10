@@ -30,7 +30,9 @@ class _BOPageState extends State<BOPage> {
 
    return Scaffold(
        backgroundColor: Colors.white,
+
        appBar: Appbarpm(
+
          text: 'aaaaaa',
          pmText: 'Sigma: ',
        ),
