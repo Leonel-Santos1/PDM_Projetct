@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pdm_pm/routes/routes.dart';
 import 'package:pdm_pm/widgets/appbar/AppBarCardBO.dart';
 import 'package:pdm_pm/widgets/appbar/AppBarFormBO.dart';
 import 'package:pdm_pm/widgets/app/app_color.dart';
@@ -12,14 +13,21 @@ class BOPage extends StatefulWidget {
 }
 
 class _BOPageState extends State<BOPage> {
-  List<AppBarForm> widgetList = [
-    AppBarForm(title: 'Dados do envolvido', description: 'Ausencia de dados',),
-    AppBarForm(title: 'Efetivo Empenhado', description: 'Ausencia de dados',),
-    AppBarForm(title: 'Dados da ocorrência', description: 'Ausencia de dados',)
-  ];
+
 
   @override
   Widget build(BuildContext context) {
+    List<AppBarForm> widgetList = [
+      AppBarForm(title: 'Dados do envolvido',
+        description: 'Ausencia de dados',
+        onTap: (){
+        Navigator.pushReplacementNamed(context, AppRoutes.ocorrence_data);
+        },
+      ),
+      AppBarForm(title: 'Efetivo Empenhado', description: 'Ausencia de dados',),
+      AppBarForm(title: 'Dados da ocorrência', description: 'Ausencia de dados',)
+    ];
+
    return Scaffold(
        backgroundColor: Colors.white,
        appBar: Appbarpm(
