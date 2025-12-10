@@ -6,7 +6,7 @@ import '../app/app_color.dart';
 class AppBarForm extends StatefulWidget{
   final String title;
   final String? description;
-  final VoidCallback? onTap;
+  final Function(BuildContext)? onTap;
 
   const AppBarForm({super.key, required this.title, this.description, this.onTap});
 
@@ -21,7 +21,7 @@ class _AppBarFormState extends State<AppBarForm> {
     Color whitePink = Color(0xFFFEEDED);
 
     return InkWell(
-      onTap: widget.onTap,
+      onTap: () => widget.onTap?.call(context),
       child: Container(
         padding: EdgeInsets.symmetric(vertical: 12, horizontal: 22),
         decoration: BoxDecoration(

@@ -14,20 +14,19 @@ class BOPage extends StatefulWidget {
 
 class _BOPageState extends State<BOPage> {
 
+  late List<AppBarForm> widgetList = [
+    AppBarForm(title: 'Dados do envolvido', description: 'Ausencia de dados',),
+    AppBarForm(title: 'Efetivo Empenhado', description: 'Ausencia de dados',),
+    AppBarForm(title: 'Dados da ocorrência',
+      description: 'Ausencia de dados',
+      onTap: (context){
+        Navigator.pushReplacementNamed(context, AppRoutes.ocorrence_data);
+      },
+    )
+  ];
 
   @override
   Widget build(BuildContext context) {
-    List<AppBarForm> widgetList = [
-      AppBarForm(title: 'Dados do envolvido',
-        description: 'Ausencia de dados',
-        onTap: (){
-        Navigator.pushReplacementNamed(context, AppRoutes.ocorrence_data);
-        },
-      ),
-      AppBarForm(title: 'Efetivo Empenhado', description: 'Ausencia de dados',),
-      AppBarForm(title: 'Dados da ocorrência', description: 'Ausencia de dados',)
-    ];
-
    return Scaffold(
        backgroundColor: Colors.white,
 
@@ -55,6 +54,9 @@ class _BOPageState extends State<BOPage> {
                mainAxisAlignment: MainAxisAlignment.end,
                children: [
                  FloatingActionButton.extended(
+                   shape: RoundedRectangleBorder(
+                       borderRadius: BorderRadiusGeometry.circular(20)
+                   ),
                    onPressed: (){
                       setState(() {
                         widgetList.insert(0,
@@ -69,7 +71,7 @@ class _BOPageState extends State<BOPage> {
                    label: AppText.text(
                      text: 'Criar',
                      textColor: AppColor.white,
-                     textFontSize: 15
+                     textFontSize: 17
                    ),
                    icon: Icon(Icons.add, color: AppColor.white,),
                  ),
