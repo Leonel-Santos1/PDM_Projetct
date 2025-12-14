@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:pdm_pm/routes/routes.dart';
 import 'package:pdm_pm/widgets/app/app_color.dart';
 
+import '../text/AppText.dart';
+
 class Appbarpm extends StatelessWidget implements PreferredSizeWidget {
   final String pmText;
   final String text;
@@ -57,38 +59,28 @@ class Appbarpm extends StatelessWidget implements PreferredSizeWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Flexible(
-            child: Text(
-              pmText,
-              style: TextStyle(
-                fontFamily: 'Plus Jakarta Sans',
-                color: colorText,
-                fontSize: fontSize,
-                fontWeight: fontWeight,
-              ),
-              overflow: TextOverflow.visible,
-              softWrap: false,
-            ),
+            child: AppText.text(
+                text: pmText,
+                textColor: colorText,
+                textFontSize: fontSize,
+                textFontWeight: fontWeight
+            )
           ),
-          const SizedBox(width: 6),
+          SizedBox(width: 6),
           Flexible(
-            child: Text(
-              text,
-              style: TextStyle(
-                fontFamily: 'Plus Jakarta Sans',
-                color: colorText,
-                fontSize: fontSize,
-                fontWeight: fontWeight,
-              ),
-              overflow: TextOverflow.visible,
-              softWrap: false,
-            ),
+            child: AppText.text(
+              text: text,
+              textColor: colorText,
+              textFontSize: fontSize,
+              textFontWeight: fontWeight,
+            )
           ),
         ],
       ),
     );
 
     return AppBar(
-      backgroundColor: const Color.fromARGB(255, 0, 31, 63),
+      backgroundColor: Color.fromARGB(255, 0, 31, 63),
       elevation: 0,
       centerTitle: true, // sempre centralizado!
 

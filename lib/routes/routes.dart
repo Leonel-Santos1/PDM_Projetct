@@ -3,7 +3,7 @@ import 'package:pdm_pm/pages/bopm/forms/OcorrenceData.dart';
 import 'package:pdm_pm/pages/login/LoginPage.dart';
 import 'package:pdm_pm/pages/home/HomePage.dart';
 import 'package:pdm_pm/pages/bopm/page/BOPage.dart';
-import 'package:pdm_pm/pages/library/LibraryPage.dart';
+import 'package:pdm_pm/pages/library/page/LibraryPage.dart';
 
 class AppRoutes {
   static const home = "/home";
@@ -20,7 +20,3 @@ class AppRoutes {
     bib: (context) => const LibraryPage(),
   };
 }
-
-
-
-

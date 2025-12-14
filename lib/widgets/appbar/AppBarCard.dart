@@ -8,16 +8,16 @@ class AppBarCard extends StatelessWidget implements PreferredSizeWidget {
   final String title;
   final String? route;
   final Color? textColor;
+  final Color? appBarColor;
 
-  const AppBarCard({super.key, required this.title, this.route, this.textColor});
+  const AppBarCard({super.key, required this.title, this.route, this.textColor, this.appBarColor});
 
   @override
   Widget build(BuildContext context) {
-    const Color blueColor = Color(0xFF08529E);
 
     return AppBar(
       automaticallyImplyLeading: false,
-        backgroundColor: blueColor,
+        backgroundColor: appBarColor,
         titleSpacing: 0,
         title: Row(
           mainAxisAlignment: MainAxisAlignment.start,
@@ -29,8 +29,8 @@ class AppBarCard extends StatelessWidget implements PreferredSizeWidget {
                   Navigator.pushReplacementNamed(context, route!);
                 }
               },
-              color: AppColor.black,
-              icon: Icon(Icons.arrow_back),
+              color: AppColor.white,
+              icon: Icon(Icons.arrow_back_ios_new),
               padding: EdgeInsetsDirectional.symmetric(horizontal: 10),
             ),
             AppText.text(

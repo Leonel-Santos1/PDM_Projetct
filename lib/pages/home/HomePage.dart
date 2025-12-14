@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
                       builder: (_) => ReusableFormBottomSheet(
                         title: "Criando BO-PM",
                         subtitle:
-                            "Preencha as informações para criar um novo BO-PM",
+                        "Preencha as informações para criar um novo BO-PM",
                         fixedInfoLabel: "UPM: 2º BPM",
                         fields: [
                           FormFieldConfig.dropdown(
@@ -131,7 +131,7 @@ class HomePage extends StatelessWidget {
                       builder: (_) => ReusableFormBottomSheet(
                         title: "Criando TCO",
                         subtitle:
-                            "Preencha as informações para criar um novo TCO",
+                        "Preencha as informações para criar um novo TCO",
                         fixedInfoLabel: "UPM: 2º BPM",
                         fields: [
                           FormFieldConfig.dropdown(
